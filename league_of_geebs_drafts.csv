@@ -1,0 +1,2041 @@
+pick,geebs_team,position,player,player_team,year
+1,Team 12,QB,Aaron Rodgers,Green Bay Packers,2012
+27,Team 2,WR,Greg Jennings,Green Bay Packers,2012
+45,Team 3,WR,Jordy Nelson,Green Bay Packers,2012
+70,Team 2,TE,Jermichael Finley,Green Bay Packers,2012
+113,Team 10,D/ST,Packers D/ST,Green Bay Packers,2012
+149,Team 4,K,Mason Crosby,Green Bay Packers,2012
+152,Team 10,RB,Cedric Benson,Green Bay Packers,2012
+191,Team 8,RB,James Starks,Green Bay Packers,2012
+2,Team 8,QB,Drew Brees,New Orleans Saints,2012
+13,Team 7,TE,Jimmy Graham,New Orleans Saints,2012
+52,Team 3,RB,Darren Sproles,New Orleans Saints,2012
+58,Team 5,WR,Marques Colston,New Orleans Saints,2012
+96,Team 12,WR,Lance Moore,New Orleans Saints,2012
+105,Team 9,RB,Mark Ingram,New Orleans Saints,2012
+141,Team 3,RB,Pierre Thomas,New Orleans Saints,2012
+170,Team 8,K,Garrett Hartley,New Orleans Saints,2012
+3,Team 2,QB,Tom Brady,New England Patriots,2012
+17,Team 10,TE,Rob Gronkowski,New England Patriots,2012
+25,Team 12,WR,Wes Welker,New England Patriots,2012
+62,Team 1,TE,Aaron Hernandez,New England Patriots,2012
+71,Team 8,WR,Brandon Lloyd,New England Patriots,2012
+94,Team 2,RB,Stevan Ridley,New England Patriots,2012
+137,Team 10,K,Stephen Gostkowski,New England Patriots,2012
+178,Team 5,RB,Shane Vereen,New England Patriots,2012
+4,Team 3,QB,Matthew Stafford,Detroit Lions,2012
+9,Team 9,WR,Calvin Johnson,Detroit Lions,2012
+77,Team 4,TE,Brandon Pettigrew,Detroit Lions,2012
+118,Team 2,WR,Titus Young,Detroit Lions,2012
+127,Team 11,RB,Kevin Smith,Detroit Lions,2012
+144,Team 12,D/ST,Lions D/ST,Detroit Lions,2012
+146,Team 8,WR,Nate Burleson,Detroit Lions,2012
+203,Team 1,K,Jason Hanson,Detroit Lions,2012
+5,Team 4,RB,LeSean McCoy,Philadelphia Eagles,2012
+19,Team 6,QB,Michael Vick,Philadelphia Eagles,2012
+60,Team 7,WR,DeSean Jackson,Philadelphia Eagles,2012
+67,Team 6,WR,Jeremy Maclin,Philadelphia Eagles,2012
+124,Team 3,D/ST,Eagles D/ST,Philadelphia Eagles,2012
+166,Team 2,QB,Nick Foles,Philadelphia Eagles,2012
+171,Team 2,K,Alex Henery,Philadelphia Eagles,2012
+179,Team 1,TE,Brent Celek,Philadelphia Eagles,2012
+189,Team 3,WR,Damaris Johnson,Philadelphia Eagles,2012
+6,Team 6,RB,Arian Foster,Houston Texans,2012
+21,Team 3,WR,Andre Johnson,Houston Texans,2012
+28,Team 3,QB,Matt Schaub,Houston Texans,2012
+120,Team 12,RB,Ben Tate,Houston Texans,2012
+122,Team 8,TE,Owen Daniels,Houston Texans,2012
+132,Team 7,D/ST,Texans D/ST,Houston Texans,2012
+201,Team 9,WR,DeVier Posey,Houston Texans,2012
+7,Team 11,QB,Cam Newton,Carolina Panthers,2012
+56,Team 10,WR,Steve Smith,Carolina Panthers,2012
+86,Team 1,RB,Jonathan Stewart,Carolina Panthers,2012
+100,Team 3,RB,DeAngelo Williams,Carolina Panthers,2012
+173,Team 4,RB,Mike Tolbert,Carolina Panthers,2012
+190,Team 2,WR,Brandon LaFell,Carolina Panthers,2012
+8,Team 10,RB,Ray Rice,Baltimore Ravens,2012
+31,Team 11,QB,Joe Flacco,Baltimore Ravens,2012
+83,Team 1,WR,Torrey Smith,Baltimore Ravens,2012
+114,Team 11,WR,Anquan Boldin,Baltimore Ravens,2012
+130,Team 5,D/ST,Ravens D/ST,Baltimore Ravens,2012
+10,Team 5,QB,Eli Manning,New York Giants,2012
+29,Team 4,WR,Victor Cruz,New York Giants,2012
+36,Team 7,WR,Hakeem Nicks,New York Giants,2012
+61,Team 7,RB,Ahmad Bradshaw,New York Giants,2012
+101,Team 4,RB,David Wilson,New York Giants,2012
+102,Team 6,D/ST,Giants D/ST,New York Giants,2012
+139,Team 6,WR,Rueben Randle,New York Giants,2012
+174,Team 6,TE,Bear Pascoe,New York Giants,2012
+176,Team 10,WR,Jerrel Jernigan,New York Giants,2012
+180,Team 7,TE,Martellus Bennett,New York Giants,2012
+187,Team 6,K,Lawrence Tynes,New York Giants,2012
+11,Team 1,QB,Tony Romo,Dallas Cowboys,2012
+37,Team 7,RB,DeMarco Murray,Dallas Cowboys,2012
+46,Team 2,WR,Dez Bryant,Dallas Cowboys,2012
+63,Team 5,TE,Jason Witten,Dallas Cowboys,2012
+64,Team 9,WR,Miles Austin,Dallas Cowboys,2012
+160,Team 9,K,Dan Bailey,Dallas Cowboys,2012
+172,Team 3,D/ST,Cowboys D/ST,Dallas Cowboys,2012
+183,Team 5,RB,Felix Jones,Dallas Cowboys,2012
+12,Team 7,QB,Peyton Manning,Denver Broncos,2012
+66,Team 11,RB,Willis McGahee,Denver Broncos,2012
+78,Team 6,WR,Eric Decker,Denver Broncos,2012
+81,Team 9,WR,Demaryius Thomas,Denver Broncos,2012
+147,Team 2,TE,Jacob Tamme,Denver Broncos,2012
+157,Team 7,K,Matt Prater,Denver Broncos,2012
+188,Team 4,RB,Ronnie Hillman,Denver Broncos,2012
+14,Team 1,QB,Philip Rivers,San Diego Chargers,2012
+42,Team 11,RB,Ryan Mathews,San Diego Chargers,2012
+49,Team 12,TE,Antonio Gates,San Diego Chargers,2012
+89,Team 10,WR,Robert Meachem,San Diego Chargers,2012
+129,Team 9,WR,Malcom Floyd,San Diego Chargers,2012
+15,Team 5,RB,Matt Forte,Chicago Bears,2012
+39,Team 5,QB,Jay Cutler,Chicago Bears,2012
+50,Team 8,WR,Brandon Marshall,Chicago Bears,2012
+136,Team 9,D/ST,Bears D/ST,Chicago Bears,2012
+143,Team 8,RB,Michael Bush,Chicago Bears,2012
+202,Team 5,K,Robbie Gould,Chicago Bears,2012
+16,Team 9,RB,Chris Johnson,Tennessee Titans,2012
+103,Team 11,TE,Jared Cook,Tennessee Titans,2012
+108,Team 7,QB,Jake Locker,Tennessee Titans,2012
+111,Team 5,WR,Kenny Britt,Tennessee Titans,2012
+121,Team 12,WR,Nate Washington,Tennessee Titans,2012
+134,Team 1,WR,Kendall Wright,Tennessee Titans,2012
+154,Team 5,QB,Matt Hasselbeck,Tennessee Titans,2012
+168,Team 12,K,Rob Bironas,Tennessee Titans,2012
+18,Team 11,WR,Larry Fitzgerald,Arizona Cardinals,2012
+91,Team 6,RB,Beanie Wells,Arizona Cardinals,2012
+138,Team 11,QB,John Skelton,Arizona Cardinals,2012
+155,Team 1,RB,Ryan Williams,Arizona Cardinals,2012
+181,Team 7,WR,Michael Floyd,Arizona Cardinals,2012
+20,Team 4,QB,Ben Roethlisberger,Pittsburgh Steelers,2012
+34,Team 5,WR,Mike Wallace,Pittsburgh Steelers,2012
+75,Team 2,WR,Antonio Brown,Pittsburgh Steelers,2012
+116,Team 4,D/ST,Steelers D/ST,Pittsburgh Steelers,2012
+135,Team 5,RB,Isaac Redman,Pittsburgh Steelers,2012
+169,Team 12,RB,Rashard Mendenhall,Pittsburgh Steelers,2012
+175,Team 11,WR,Plaxico Burress,Pittsburgh Steelers,2012
+199,Team 11,RB,Jonathan Dwyer,Pittsburgh Steelers,2012
+22,Team 2,QB,Matt Ryan,Atlanta Falcons,2012
+23,Team 8,WR,Roddy White,Atlanta Falcons,2012
+44,Team 4,WR,Julio Jones,Atlanta Falcons,2012
+47,Team 8,RB,Michael Turner,Atlanta Falcons,2012
+76,Team 3,TE,Tony Gonzalez,Atlanta Falcons,2012
+200,Team 10,D/ST,Falcons D/ST,Atlanta Falcons,2012
+24,Team 12,RB,Darren McFadden,Oakland Raiders,2012
+80,Team 10,QB,Carson Palmer,Oakland Raiders,2012
+109,Team 7,WR,Darrius Heyward-Bey,Oakland Raiders,2012
+123,Team 2,WR,Denarius Moore,Oakland Raiders,2012
+148,Team 3,K,Sebastian Janikowski,Oakland Raiders,2012
+195,Team 2,RB,Mike Goodson,Oakland Raiders,2012
+26,Team 8,RB,Maurice Jones-Drew,Jacksonville Jaguars,2012
+93,Team 3,WR,Justin Blackmon,Jacksonville Jaguars,2012
+112,Team 9,QB,Blaine Gabbert,Jacksonville Jaguars,2012
+167,Team 8,WR,Laurent Robinson,Jacksonville Jaguars,2012
+30,Team 6,RB,Adrian Peterson,Minnesota Vikings,2012
+59,Team 1,WR,Percy Harvin,Minnesota Vikings,2012
+110,Team 1,QB,Christian Ponder,Minnesota Vikings,2012
+150,Team 6,RB,Toby Gerhart,Minnesota Vikings,2012
+177,Team 9,WR,Jerome Simpson,Minnesota Vikings,2012
+32,Team 10,RB,Marshawn Lynch,Seattle Seahawks,2012
+104,Team 10,QB,Russell Wilson,Seattle Seahawks,2012
+126,Team 6,QB,Matt Flynn,Seattle Seahawks,2012
+128,Team 10,WR,Sidney Rice,Seattle Seahawks,2012
+142,Team 2,D/ST,Seahawks D/ST,Seattle Seahawks,2012
+33,Team 9,QB,Robert Griffin III,Washington Redskins,2012
+87,Team 5,WR,Pierre Garcon,Washington Redskins,2012
+88,Team 9,TE,Fred Davis,Washington Redskins,2012
+95,Team 8,RB,Roy Helu,Washington Redskins,2012
+193,Team 12,WR,Leonard Hankerson,Washington Redskins,2012
+35,Team 1,WR,A.J. Green,Cincinnati Bengals,2012
+41,Team 10,QB,Andy Dalton,Cincinnati Bengals,2012
+82,Team 5,RB,BenJarvus Green-Ellis,Cincinnati Bengals,2012
+182,Team 1,D/ST,Bengals D/ST,Cincinnati Bengals,2012
+186,Team 11,RB,Bernard Scott,Cincinnati Bengals,2012
+38,Team 1,RB,Trent Richardson,Cleveland Browns,2012
+98,Team 8,QB,Brandon Weeden,Cleveland Browns,2012
+196,Team 3,WR,Greg Little,Cleveland Browns,2012
+40,Team 9,QB,Alex Smith,San Francisco 49ers,2012
+54,Team 6,TE,Vernon Davis,San Francisco 49ers,2012
+65,Team 10,RB,Frank Gore,San Francisco 49ers,2012
+90,Team 11,D/ST,49ers D/ST,San Francisco 49ers,2012
+92,Team 4,WR,Michael Crabtree,San Francisco 49ers,2012
+115,Team 6,WR,Randy Moss,San Francisco 49ers,2012
+145,Team 12,WR,Mario Manningham,San Francisco 49ers,2012
+151,Team 11,K,David Akers,San Francisco 49ers,2012
+197,Team 4,RB,LaMichael James,San Francisco 49ers,2012
+204,Team 7,RB,Brandon Jacobs,San Francisco 49ers,2012
+43,Team 6,QB,Andrew Luck,Indianapolis Colts,2012
+107,Team 1,WR,Reggie Wayne,Indianapolis Colts,2012
+133,Team 7,RB,Donald Brown,Indianapolis Colts,2012
+158,Team 1,WR,Austin Collie,Indianapolis Colts,2012
+161,Team 10,TE,Coby Fleener,Indianapolis Colts,2012
+48,Team 12,QB,Josh Freeman,Tampa Bay Buccaneers,2012
+69,Team 3,WR,Vincent Jackson,Tampa Bay Buccaneers,2012
+99,Team 2,RB,Doug Martin,Tampa Bay Buccaneers,2012
+163,Team 6,RB,LeGarrette Blount,Tampa Bay Buccaneers,2012
+192,Team 12,WR,Mike Williams,Tampa Bay Buccaneers,2012
+51,Team 2,RB,Steven Jackson,St. Louis Rams,2012
+68,Team 4,QB,Sam Bradford,St. Louis Rams,2012
+153,Team 9,WR,Brian Quick,St. Louis Rams,2012
+156,Team 7,WR,Danny Amendola,St. Louis Rams,2012
+53,Team 4,RB,Jamaal Charles,Kansas City Chiefs,2012
+79,Team 11,WR,Dwayne Bowe,Kansas City Chiefs,2012
+84,Team 7,QB,Matt Cassel,Kansas City Chiefs,2012
+106,Team 5,RB,Peyton Hillis,Kansas City Chiefs,2012
+194,Team 8,WR,Jon Baldwin,Kansas City Chiefs,2012
+55,Team 11,RB,Reggie Bush,Miami Dolphins,2012
+117,Team 3,QB,Ryan Tannehill,Miami Dolphins,2012
+184,Team 9,RB,Daniel Thomas,Miami Dolphins,2012
+57,Team 9,RB,Fred Jackson,Buffalo Bills,2012
+72,Team 12,WR,Steve Johnson,Buffalo Bills,2012
+74,Team 8,QB,Ryan Fitzpatrick,Buffalo Bills,2012
+131,Team 1,RB,C.J. Spiller,Buffalo Bills,2012
+185,Team 10,D/ST,Bills D/ST,Buffalo Bills,2012
+73,Team 12,RB,Shonn Greene,New York Jets,2012
+85,Team 7,WR,Santonio Holmes,New York Jets,2012
+97,Team 12,QB,Mark Sanchez,New York Jets,2012
+119,Team 8,D/ST,Jets D/ST,New York Jets,2012
+125,Team 4,QB,Tim Tebow,New York Jets,2012
+140,Team 4,WR,Stephen Hill,New York Jets,2012
+164,Team 4,TE,Dustin Keller,New York Jets,2012
+159,Team 5,K,Neil Rackers,  FA,2012
+162,Team 11,TE,Kellen Winslow,  FA,2012
+165,Team 3,WR,Terrell Owens,  FA,2012
+198,Team 6,RB,Adrian Peterson,  FA,2012
+1,Team 7,QB,Josh Freeman,New York Giants,2013
+11,Team 5,QB,Eli Manning,New York Giants,2013
+52,Team 8,WR,Victor Cruz,New York Giants,2013
+70,Team 12,RB,David Wilson,New York Giants,2013
+138,Team 4,WR,Rueben Randle,New York Giants,2013
+197,Team 6,K,Josh Brown,New York Giants,2013
+2,Team 1,WR,A.J. Green,Cincinnati Bengals,2013
+48,Team 3,QB,Andy Dalton,Cincinnati Bengals,2013
+96,Team 3,RB,Giovani Bernard,Cincinnati Bengals,2013
+116,Team 6,RB,BenJarvus Green-Ellis,Cincinnati Bengals,2013
+139,Team 10,D/ST,Bengals D/ST,Cincinnati Bengals,2013
+142,Team 12,TE,Tyler Eifert,Cincinnati Bengals,2013
+3,Team 11,WR,Randall Cobb,Green Bay Packers,2013
+10,Team 12,QB,Aaron Rodgers,Green Bay Packers,2013
+80,Team 2,RB,Eddie Lacy,Green Bay Packers,2013
+83,Team 1,WR,Jordy Nelson,Green Bay Packers,2013
+126,Team 10,TE,Jermichael Finley,Green Bay Packers,2013
+143,Team 5,QB,Matt Flynn,Green Bay Packers,2013
+196,Team 8,D/ST,Packers D/ST,Green Bay Packers,2013
+4,Team 9,QB,Robert Griffin III,Washington Redskins,2013
+39,Team 11,RB,Alfred Morris,Washington Redskins,2013
+87,Team 11,WR,DeSean Jackson,Washington Redskins,2013
+93,Team 8,WR,Pierre Garcon,Washington Redskins,2013
+170,Team 5,TE,Fred Davis,Washington Redskins,2013
+179,Team 1,WR,Santana Moss,Washington Redskins,2013
+184,Team 9,WR,Andre Roberts,Washington Redskins,2013
+5,Team 2,RB,Doug Martin,Tampa Bay Buccaneers,2013
+12,Team 3,WR,Vincent Jackson,Tampa Bay Buccaneers,2013
+133,Team 7,TE,Brandon Myers,Tampa Bay Buccaneers,2013
+6,Team 4,QB,Colin Kaepernick,San Francisco 49ers,2013
+55,Team 4,RB,Frank Gore,San Francisco 49ers,2013
+79,Team 4,TE,Vernon Davis,San Francisco 49ers,2013
+98,Team 5,WR,Anquan Boldin,San Francisco 49ers,2013
+127,Team 4,D/ST,49ers D/ST,San Francisco 49ers,2013
+160,Team 9,QB,Blaine Gabbert,San Francisco 49ers,2013
+191,Team 5,K,Phil Dawson,San Francisco 49ers,2013
+7,Team 10,RB,Marshawn Lynch,Seattle Seahawks,2013
+19,Team 10,QB,Russell Wilson,Seattle Seahawks,2013
+94,Team 12,WR,Sidney Rice,Seattle Seahawks,2013
+113,Team 2,D/ST,Seahawks D/ST,Seattle Seahawks,2013
+148,Team 8,QB,Terrelle Pryor,Seattle Seahawks,2013
+158,Team 1,WR,Percy Harvin,Seattle Seahawks,2013
+8,Team 6,RB,Adrian Peterson,Minnesota Vikings,2013
+105,Team 9,WR,Greg Jennings,Minnesota Vikings,2013
+118,Team 12,QB,Christian Ponder,Minnesota Vikings,2013
+125,Team 6,TE,Kyle Rudolph,Minnesota Vikings,2013
+157,Team 7,K,Blair Walsh,Minnesota Vikings,2013
+166,Team 12,D/ST,Vikings D/ST,Minnesota Vikings,2013
+9,Team 8,QB,Drew Brees,New Orleans Saints,2013
+46,Team 12,TE,Jimmy Graham,New Orleans Saints,2013
+57,Team 9,WR,Marques Colston,New Orleans Saints,2013
+119,Team 5,RB,Mark Ingram,New Orleans Saints,2013
+193,Team 3,RB,Pierre Thomas,New Orleans Saints,2013
+13,Team 7,QB,Peyton Manning,Denver Broncos,2013
+49,Team 3,WR,Demaryius Thomas,Denver Broncos,2013
+53,Team 6,WR,Wes Welker,Denver Broncos,2013
+88,Team 9,RB,Montee Ball,Denver Broncos,2013
+123,Team 12,RB,Ronnie Hillman,Denver Broncos,2013
+144,Team 3,D/ST,Broncos D/ST,Denver Broncos,2013
+145,Team 3,WR,Emmanuel Sanders,Denver Broncos,2013
+175,Team 4,K,Matt Prater,Denver Broncos,2013
+201,Team 9,TE,Julius Thomas,Denver Broncos,2013
+14,Team 1,QB,Matt Ryan,Atlanta Falcons,2013
+36,Team 7,WR,Julio Jones,Atlanta Falcons,2013
+37,Team 7,RB,Steven Jackson,Atlanta Falcons,2013
+56,Team 2,WR,Roddy White,Atlanta Falcons,2013
+82,Team 11,TE,Tony Gonzalez,Atlanta Falcons,2013
+159,Team 11,K,Matt Bryant,Atlanta Falcons,2013
+163,Team 10,RB,Jacquizz Rodgers,Atlanta Falcons,2013
+15,Team 11,QB,Tom Brady,New England Patriots,2013
+51,Team 12,RB,Stevan Ridley,New England Patriots,2013
+64,Team 9,WR,Danny Amendola,New England Patriots,2013
+65,Team 2,TE,Rob Gronkowski,New England Patriots,2013
+110,Team 1,RB,Shane Vereen,New England Patriots,2013
+124,Team 8,K,Stephen Gostkowski,New England Patriots,2013
+130,Team 11,D/ST,Patriots D/ST,New England Patriots,2013
+156,Team 7,WR,Kenbrell Thompkins,New England Patriots,2013
+185,Team 2,WR,Aaron Dobson,New England Patriots,2013
+194,Team 5,WR,Austin Collie,New England Patriots,2013
+16,Team 9,QB,Cam Newton,Carolina Panthers,2013
+95,Team 5,TE,Greg Olsen,Carolina Panthers,2013
+101,Team 6,RB,DeAngelo Williams,Carolina Panthers,2013
+181,Team 7,RB,Jonathan Stewart,Carolina Panthers,2013
+17,Team 2,QB,Tony Romo,Dallas Cowboys,2013
+31,Team 4,WR,Dez Bryant,Dallas Cowboys,2013
+69,Team 8,RB,DeMarco Murray,Dallas Cowboys,2013
+77,Team 6,TE,Jason Witten,Dallas Cowboys,2013
+99,Team 12,WR,Miles Austin,Dallas Cowboys,2013
+135,Team 11,QB,Brandon Weeden,Dallas Cowboys,2013
+177,Team 9,K,Dan Bailey,Dallas Cowboys,2013
+18,Team 4,RB,Arian Foster,Houston Texans,2013
+50,Team 5,WR,Andre Johnson,Houston Texans,2013
+120,Team 3,RB,Andre Brown,Houston Texans,2013
+128,Team 2,D/ST,Texans D/ST,Houston Texans,2013
+147,Team 12,WR,DeAndre Hopkins,Houston Texans,2013
+20,Team 6,QB,Andrew Luck,Indianapolis Colts,2013
+33,Team 9,RB,Trent Richardson,Indianapolis Colts,2013
+61,Team 7,WR,Reggie Wayne,Indianapolis Colts,2013
+62,Team 1,WR,Hakeem Nicks,Indianapolis Colts,2013
+90,Team 4,WR,T.Y. Hilton,Indianapolis Colts,2013
+92,Team 6,RB,Ahmad Bradshaw,Indianapolis Colts,2013
+112,Team 9,RB,Vick Ballard,Indianapolis Colts,2013
+182,Team 1,K,Adam Vinatieri,Indianapolis Colts,2013
+21,Team 8,K,Olindo Mare,  FA,2013
+22,Team 12,K,Ryan Longwell,  FA,2013
+23,Team 5,QB,Charlie Batch,  FA,2013
+38,Team 1,TE,Alge Crumpler,  FA,2013
+40,Team 9,RB,LaDainian Tomlinson,  FA,2013
+43,Team 10,QB,Jeff Garcia,  FA,2013
+44,Team 6,QB,Donovan McNabb,  FA,2013
+60,Team 7,QB,Daunte Culpepper,  FA,2013
+73,Team 3,QB,Billy Volek,  FA,2013
+24,Team 3,QB,Matthew Stafford,Detroit Lions,2013
+25,Team 3,WR,Calvin Johnson,Detroit Lions,2013
+59,Team 1,RB,Reggie Bush,Detroit Lions,2013
+117,Team 8,WR,Golden Tate,Detroit Lions,2013
+169,Team 3,WR,Ryan Broyles,Detroit Lions,2013
+173,Team 6,RB,Mikel Leshoure,Detroit Lions,2013
+178,Team 11,TE,Brandon Pettigrew,Detroit Lions,2013
+198,Team 10,K,David Akers,Detroit Lions,2013
+26,Team 5,RB,Ray Rice,Baltimore Ravens,2013
+27,Team 12,QB,Joe Flacco,Baltimore Ravens,2013
+78,Team 10,WR,Torrey Smith,Baltimore Ravens,2013
+81,Team 9,WR,Steve Smith,Baltimore Ravens,2013
+100,Team 8,TE,Owen Daniels,Baltimore Ravens,2013
+153,Team 9,D/ST,Ravens D/ST,Baltimore Ravens,2013
+155,Team 1,RB,Bernard Pierce,Baltimore Ravens,2013
+168,Team 3,K,Justin Tucker,Baltimore Ravens,2013
+28,Team 8,RB,C.J. Spiller,Buffalo Bills,2013
+86,Team 1,QB,EJ Manuel,Buffalo Bills,2013
+91,Team 10,WR,Steve Johnson,Buffalo Bills,2013
+111,Team 11,WR,Mike Williams,Buffalo Bills,2013
+151,Team 4,WR,Robert Woods,Buffalo Bills,2013
+183,Team 11,RB,Fred Jackson,Buffalo Bills,2013
+29,Team 6,QB,Matt Schaub,Oakland Raiders,2013
+58,Team 11,RB,Maurice Jones-Drew,Oakland Raiders,2013
+74,Team 5,RB,Darren McFadden,Oakland Raiders,2013
+75,Team 12,WR,James Jones,Oakland Raiders,2013
+149,Team 6,WR,Denarius Moore,Oakland Raiders,2013
+190,Team 12,K,Sebastian Janikowski,Oakland Raiders,2013
+30,Team 10,RB,Jamaal Charles,Kansas City Chiefs,2013
+76,Team 8,QB,Alex Smith,Kansas City Chiefs,2013
+84,Team 7,WR,Dwayne Bowe,Kansas City Chiefs,2013
+32,Team 2,WR,Brandon Marshall,Chicago Bears,2013
+45,Team 8,RB,Matt Forte,Chicago Bears,2013
+54,Team 10,QB,Jay Cutler,Chicago Bears,2013
+122,Team 5,D/ST,Bears D/ST,Chicago Bears,2013
+152,Team 2,TE,Martellus Bennett,Chicago Bears,2013
+167,Team 5,RB,Michael Bush,Chicago Bears,2013
+172,Team 8,WR,Alshon Jeffery,Chicago Bears,2013
+34,Team 11,RB,LeSean McCoy,Philadelphia Eagles,2013
+72,Team 3,RB,Darren Sproles,Philadelphia Eagles,2013
+165,Team 8,RB,Bryce Brown,Philadelphia Eagles,2013
+176,Team 2,QB,Nick Foles,Philadelphia Eagles,2013
+200,Team 2,K,Alex Henery,Philadelphia Eagles,2013
+35,Team 1,QB,Carson Palmer,Arizona Cardinals,2013
+47,Team 5,WR,Larry Fitzgerald,Arizona Cardinals,2013
+114,Team 4,WR,Michael Floyd,Arizona Cardinals,2013
+115,Team 10,RB,Rashard Mendenhall,Arizona Cardinals,2013
+203,Team 1,D/ST,Cardinals D/ST,Arizona Cardinals,2013
+204,Team 7,RB,Jonathan Dwyer,Arizona Cardinals,2013
+41,Team 2,QB,Michael Vick,New York Jets,2013
+66,Team 4,WR,Eric Decker,New York Jets,2013
+67,Team 10,RB,Chris Johnson,New York Jets,2013
+108,Team 7,RB,Chris Ivory,New York Jets,2013
+136,Team 9,TE,Zach Sudfeld,New York Jets,2013
+171,Team 12,RB,Bilal Powell,New York Jets,2013
+186,Team 4,WR,Jeremy Kerley,New York Jets,2013
+187,Team 10,QB,Geno Smith,New York Jets,2013
+195,Team 12,WR,Santonio Holmes,New York Jets,2013
+42,Team 4,QB,Ben Roethlisberger,Pittsburgh Steelers,2013
+89,Team 2,WR,Antonio Brown,Pittsburgh Steelers,2013
+132,Team 7,WR,Lance Moore,Pittsburgh Steelers,2013
+154,Team 11,WR,Darrius Heyward-Bey,Pittsburgh Steelers,2013
+162,Team 4,RB,Le'Veon Bell,Pittsburgh Steelers,2013
+164,Team 6,RB,Isaac Redman,Pittsburgh Steelers,2013
+180,Team 7,D/ST,Steelers D/ST,Pittsburgh Steelers,2013
+199,Team 4,WR,Plaxico Burress,Pittsburgh Steelers,2013
+63,Team 11,QB,Philip Rivers,San Diego Chargers,2013
+85,Team 7,RB,Ryan Mathews,San Diego Chargers,2013
+97,Team 3,TE,Antonio Gates,San Diego Chargers,2013
+141,Team 8,WR,Malcom Floyd,San Diego Chargers,2013
+150,Team 10,WR,Vincent Brown,San Diego Chargers,2013
+174,Team 10,RB,Danny Woodhead,San Diego Chargers,2013
+68,Team 6,WR,Mike Wallace,Miami Dolphins,2013
+107,Team 1,RB,Lamar Miller,Miami Dolphins,2013
+137,Team 2,QB,Ryan Tannehill,Miami Dolphins,2013
+71,Team 5,QB,Sam Bradford,St. Louis Rams,2013
+102,Team 10,WR,Tavon Austin,St. Louis Rams,2013
+104,Team 2,RB,Daryl Richardson,St. Louis Rams,2013
+109,Team 7,WR,Kenny Britt,St. Louis Rams,2013
+129,Team 9,TE,Jared Cook,St. Louis Rams,2013
+140,Team 6,RB,Isaiah Pead,St. Louis Rams,2013
+146,Team 5,WR,Chris Givens,St. Louis Rams,2013
+188,Team 6,D/ST,Rams D/ST,St. Louis Rams,2013
+103,Team 4,WR,Cecil Shorts,Jacksonville Jaguars,2013
+121,Team 3,QB,Chad Henne,Jacksonville Jaguars,2013
+161,Team 2,WR,Justin Blackmon,Jacksonville Jaguars,2013
+106,Team 11,QB,Jake Locker,Tennessee Titans,2013
+192,Team 3,WR,Kendall Wright,Tennessee Titans,2013
+202,Team 11,RB,Shonn Greene,Tennessee Titans,2013
+131,Team 1,TE,Jordan Cameron,Cleveland Browns,2013
+134,Team 1,WR,Josh Gordon,Cleveland Browns,2013
+189,Team 8,RB,Ben Tate,Cleveland Browns,2013
+1,Team 1,RB,Montee Ball,Denver Broncos,2014
+11,Team 7,QB,Peyton Manning,Denver Broncos,2014
+12,Team 3,WR,Demaryius Thomas,Denver Broncos,2014
+64,Team 10,WR,Wes Welker,Denver Broncos,2014
+94,Team 2,WR,Emmanuel Sanders,Denver Broncos,2014
+139,Team 8,D/ST,Broncos D/ST,Denver Broncos,2014
+169,Team 3,WR,Cody Latimer,Denver Broncos,2014
+2,Team 6,RB,Adrian Peterson,Minnesota Vikings,2014
+73,Team 3,WR,Cordarrelle Patterson,Minnesota Vikings,2014
+87,Team 4,TE,Kyle Rudolph,Minnesota Vikings,2014
+95,Team 7,WR,Mike Wallace,Minnesota Vikings,2014
+177,Team 10,QB,Teddy Bridgewater,Minnesota Vikings,2014
+195,Team 2,K,Blair Walsh,Minnesota Vikings,2014
+3,Team 4,QB,Colin Kaepernick,San Francisco 49ers,2014
+47,Team 7,RB,Reggie Bush,San Francisco 49ers,2014
+68,Team 11,TE,Vernon Davis,San Francisco 49ers,2014
+82,Team 4,WR,Torrey Smith,San Francisco 49ers,2014
+117,Team 12,WR,Anquan Boldin,San Francisco 49ers,2014
+120,Team 3,D/ST,49ers D/ST,San Francisco 49ers,2014
+162,Team 9,RB,Carlos Hyde,San Francisco 49ers,2014
+197,Team 11,K,Phil Dawson,San Francisco 49ers,2014
+4,Team 10,RB,Jamaal Charles,Kansas City Chiefs,2014
+56,Team 5,QB,Alex Smith,Kansas City Chiefs,2014
+100,Team 12,WR,Jeremy Maclin,Kansas City Chiefs,2014
+134,Team 6,D/ST,Chiefs D/ST,Kansas City Chiefs,2014
+188,Team 11,QB,Terrelle Pryor,Kansas City Chiefs,2014
+5,Team 5,TE,Greg Olsen,Carolina Panthers,2014
+20,Team 11,QB,Cam Newton,Carolina Panthers,2014
+119,Team 7,D/ST,Panthers D/ST,Carolina Panthers,2014
+133,Team 1,WR,Kelvin Benjamin,Carolina Panthers,2014
+157,Team 1,WR,Jarrett Boykin,Carolina Panthers,2014
+202,Team 4,RB,Mike Tolbert,Carolina Panthers,2014
+6,Team 9,TE,Julius Thomas,Jacksonville Jaguars,2014
+81,Team 10,RB,Toby Gerhart,Jacksonville Jaguars,2014
+154,Team 4,WR,Marqise Lee,Jacksonville Jaguars,2014
+156,Team 1,RB,Bernard Pierce,Jacksonville Jaguars,2014
+167,Team 7,QB,Blake Bortles,Jacksonville Jaguars,2014
+189,Team 12,QB,Chad Henne,Jacksonville Jaguars,2014
+7,Team 8,QB,Drew Brees,New Orleans Saints,2014
+58,Team 4,RB,C.J. Spiller,New Orleans Saints,2014
+86,Team 6,WR,Marques Colston,New Orleans Saints,2014
+106,Team 4,WR,Brandin Cooks,New Orleans Saints,2014
+108,Team 1,RB,Pierre Thomas,New Orleans Saints,2014
+114,Team 9,RB,Khiry Robinson,New Orleans Saints,2014
+182,Team 6,RB,Mark Ingram,New Orleans Saints,2014
+8,Team 11,RB,LeSean McCoy,Buffalo Bills,2014
+62,Team 6,WR,Percy Harvin,Buffalo Bills,2014
+103,Team 9,WR,Sammy Watkins,Buffalo Bills,2014
+111,Team 4,RB,Fred Jackson,Buffalo Bills,2014
+143,Team 7,QB,EJ Manuel,Buffalo Bills,2014
+164,Team 11,D/ST,Bills D/ST,Buffalo Bills,2014
+9,Team 12,QB,Aaron Rodgers,Green Bay Packers,2014
+27,Team 2,RB,Eddie Lacy,Green Bay Packers,2014
+46,Team 2,WR,Jordy Nelson,Green Bay Packers,2014
+57,Team 10,WR,Randall Cobb,Green Bay Packers,2014
+161,Team 5,K,Mason Crosby,Green Bay Packers,2014
+10,Team 2,QB,Nick Foles,St. Louis Rams,2014
+55,Team 9,RB,Zac Stacy,St. Louis Rams,2014
+135,Team 4,D/ST,Rams D/ST,St. Louis Rams,2014
+193,Team 3,WR,Tavon Austin,St. Louis Rams,2014
+200,Team 5,RB,Tre Mason,St. Louis Rams,2014
+13,Team 1,QB,Matthew Stafford,Detroit Lions,2014
+19,Team 8,WR,Calvin Johnson,Detroit Lions,2014
+93,Team 12,RB,Joique Bell,Detroit Lions,2014
+104,Team 5,WR,Golden Tate,Detroit Lions,2014
+144,Team 3,K,Matt Prater,Detroit Lions,2014
+166,Team 2,TE,Eric Ebron,Detroit Lions,2014
+14,Team 6,QB,Andrew Luck,Indianapolis Colts,2014
+54,Team 8,WR,Andre Johnson,Indianapolis Colts,2014
+65,Team 5,WR,T.Y. Hilton,Indianapolis Colts,2014
+67,Team 8,RB,Frank Gore,Indianapolis Colts,2014
+105,Team 10,TE,Coby Fleener,Indianapolis Colts,2014
+118,Team 2,WR,Reggie Wayne,Indianapolis Colts,2014
+201,Team 10,K,Adam Vinatieri,Indianapolis Colts,2014
+15,Team 4,QB,Tom Brady,New England Patriots,2014
+51,Team 2,TE,Rob Gronkowski,New England Patriots,2014
+84,Team 1,WR,Julian Edelman,New England Patriots,2014
+129,Team 10,WR,Danny Amendola,New England Patriots,2014
+146,Team 7,K,Stephen Gostkowski,New England Patriots,2014
+181,Team 1,D/ST,Patriots D/ST,New England Patriots,2014
+187,Team 8,RB,LeGarrette Blount,New England Patriots,2014
+16,Team 10,RB,Matt Forte,Chicago Bears,2014
+17,Team 5,QB,Jay Cutler,Chicago Bears,2014
+53,Team 11,WR,Alshon Jeffery,Chicago Bears,2014
+124,Team 12,TE,Martellus Bennett,Chicago Bears,2014
+204,Team 1,K,Robbie Gould,Chicago Bears,2014
+18,Team 9,QB,Matt Ryan,Atlanta Falcons,2014
+32,Team 5,WR,Julio Jones,Atlanta Falcons,2014
+69,Team 12,WR,Roddy White,Atlanta Falcons,2014
+122,Team 7,RB,Steven Jackson,Atlanta Falcons,2014
+174,Team 8,RB,Devonta Freeman,Atlanta Falcons,2014
+203,Team 6,K,Matt Bryant,Atlanta Falcons,2014
+21,Team 12,QB,Daunte Culpepper,  FA,2014
+22,Team 2,QB,Mark Brunell,  FA,2014
+23,Team 7,RB,Mike Sellers,  FA,2014
+33,Team 10,QB,Charlie Batch,  FA,2014
+35,Team 6,QB,Jeff Garcia,  FA,2014
+49,Team 3,TE,Alge Crumpler,  FA,2014
+88,Team 10,RB,Ray Rice,  FA,2014
+89,Team 5,WR,Terrell Owens,  FA,2014
+171,Team 2,QB,Donovan McNabb,  FA,2014
+183,Team 4,K,Olindo Mare,  FA,2014
+186,Team 9,WR,Randy Moss,  FA,2014
+24,Team 3,QB,Tony Romo,Dallas Cowboys,2014
+25,Team 3,WR,Dez Bryant,Dallas Cowboys,2014
+29,Team 11,QB,Jon Kitna,Dallas Cowboys,2014
+78,Team 8,TE,Jason Witten,Dallas Cowboys,2014
+109,Team 1,WR,Terrance Williams,Dallas Cowboys,2014
+115,Team 8,RB,Darren McFadden,Dallas Cowboys,2014
+199,Team 9,K,Dan Bailey,Dallas Cowboys,2014
+26,Team 7,RB,Marshawn Lynch,Seattle Seahawks,2014
+37,Team 1,TE,Jimmy Graham,Seattle Seahawks,2014
+44,Team 11,QB,Russell Wilson,Seattle Seahawks,2014
+75,Team 2,D/ST,Seahawks D/ST,Seattle Seahawks,2014
+165,Team 12,K,Steven Hauschka,Seattle Seahawks,2014
+179,Team 6,WR,Doug Baldwin,Seattle Seahawks,2014
+191,Team 7,RB,Christine Michael,Seattle Seahawks,2014
+28,Team 12,RB,DeMarco Murray,Philadelphia Eagles,2014
+52,Team 12,RB,Ryan Mathews,Philadelphia Eagles,2014
+96,Team 3,TE,Zach Ertz,Philadelphia Eagles,2014
+112,Team 10,QB,Sam Bradford,Philadelphia Eagles,2014
+113,Team 5,WR,Riley Cooper,Philadelphia Eagles,2014
+121,Team 3,RB,Darren Sproles,Philadelphia Eagles,2014
+190,Team 2,QB,Mark Sanchez,Philadelphia Eagles,2014
+192,Team 3,WR,Jordan Matthews,Philadelphia Eagles,2014
+30,Team 8,WR,A.J. Green,Cincinnati Bengals,2014
+39,Team 4,RB,Giovani Bernard,Cincinnati Bengals,2014
+45,Team 12,QB,Andy Dalton,Cincinnati Bengals,2014
+151,Team 9,D/ST,Bengals D/ST,Cincinnati Bengals,2014
+184,Team 10,TE,Tyler Eifert,Cincinnati Bengals,2014
+198,Team 8,RB,Jeremy Hill,Cincinnati Bengals,2014
+31,Team 9,WR,Brandon Marshall,New York Jets,2014
+80,Team 5,RB,Chris Johnson,New York Jets,2014
+97,Team 3,RB,Stevan Ridley,New York Jets,2014
+98,Team 7,WR,Eric Decker,New York Jets,2014
+148,Team 12,RB,Chris Ivory,New York Jets,2014
+152,Team 5,QB,Ryan Fitzpatrick,New York Jets,2014
+159,Team 4,QB,Geno Smith,New York Jets,2014
+163,Team 8,QB,Michael Vick,New York Jets,2014
+178,Team 4,K,Nick Folk,New York Jets,2014
+34,Team 4,WR,Antonio Brown,Pittsburgh Steelers,2014
+42,Team 9,RB,Le'Veon Bell,Pittsburgh Steelers,2014
+48,Team 3,QB,Ben Roethlisberger,Pittsburgh Steelers,2014
+70,Team 2,RB,Ben Tate,Pittsburgh Steelers,2014
+128,Team 5,RB,DeAngelo Williams,Pittsburgh Steelers,2014
+172,Team 12,D/ST,Steelers D/ST,Pittsburgh Steelers,2014
+36,Team 1,QB,Robert Griffin,Washington Redskins,2014
+41,Team 5,RB,Alfred Morris,Washington Redskins,2014
+74,Team 7,WR,Pierre Garcon,Washington Redskins,2014
+76,Team 12,WR,DeSean Jackson,Washington Redskins,2014
+132,Team 1,TE,Jordan Reed,Washington Redskins,2014
+38,Team 6,RB,Arian Foster,Houston Texans,2014
+125,Team 11,WR,Cecil Shorts III,Houston Texans,2014
+137,Team 5,D/ST,Texans D/ST,Houston Texans,2014
+138,Team 9,WR,DeAndre Hopkins,Houston Texans,2014
+40,Team 10,QB,Philip Rivers,San Diego Chargers,2014
+63,Team 4,WR,Keenan Allen,San Diego Chargers,2014
+127,Team 9,RB,Danny Woodhead,San Diego Chargers,2014
+155,Team 6,WR,Stevie Johnson,San Diego Chargers,2014
+173,Team 11,TE,Ladarius Green,San Diego Chargers,2014
+176,Team 5,TE,Antonio Gates,San Diego Chargers,2014
+194,Team 7,RB,Donald Brown,San Diego Chargers,2014
+43,Team 8,RB,Doug Martin,Tampa Bay Buccaneers,2014
+66,Team 9,WR,Vincent Jackson,Tampa Bay Buccaneers,2014
+130,Team 4,WR,Mike Evans,Tampa Bay Buccaneers,2014
+175,Team 9,QB,Mike Glennon,Tampa Bay Buccaneers,2014
+50,Team 7,QB,Eli Manning,New York Giants,2014
+59,Team 6,WR,Victor Cruz,New York Giants,2014
+72,Team 3,RB,Shane Vereen,New York Giants,2014
+77,Team 11,RB,Rashad Jennings,New York Giants,2014
+116,Team 11,WR,Rueben Randle,New York Giants,2014
+168,Team 3,WR,Odell Beckham Jr.,New York Giants,2014
+196,Team 12,RB,Andre Williams,New York Giants,2014
+60,Team 1,WR,Larry Fitzgerald,Arizona Cardinals,2014
+61,Team 1,RB,Andre Ellington,Arizona Cardinals,2014
+90,Team 9,QB,Carson Palmer,Arizona Cardinals,2014
+92,Team 11,WR,Michael Floyd,Arizona Cardinals,2014
+136,Team 10,D/ST,Cardinals D/ST,Arizona Cardinals,2014
+71,Team 7,TE,Jordan Cameron,Miami Dolphins,2014
+107,Team 6,QB,Ryan Tannehill,Miami Dolphins,2014
+126,Team 8,RB,Knowshon Moreno,Miami Dolphins,2014
+149,Team 11,RB,Lamar Miller,Miami Dolphins,2014
+160,Team 10,WR,Greg Jennings,Miami Dolphins,2014
+79,Team 9,WR,Michael Crabtree,Oakland Raiders,2014
+83,Team 6,RB,Trent Richardson,Oakland Raiders,2014
+123,Team 2,RB,Maurice Jones-Drew,Oakland Raiders,2014
+85,Team 1,WR,Brandon Stokley,Baltimore Ravens,2014
+91,Team 8,QB,Joe Flacco,Baltimore Ravens,2014
+131,Team 6,TE,Dennis Pitta,Baltimore Ravens,2014
+150,Team 8,K,Justin Tucker,Baltimore Ravens,2014
+153,Team 10,WR,Steve Smith Sr.,Baltimore Ravens,2014
+180,Team 1,QB,Matt Schaub,Baltimore Ravens,2014
+99,Team 2,QB,Johnny Manziel,Cleveland Browns,2014
+110,Team 6,WR,Josh Gordon,Cleveland Browns,2014
+140,Team 11,WR,Dwayne Bowe,Cleveland Browns,2014
+142,Team 2,QB,Josh McCown,Cleveland Browns,2014
+158,Team 6,WR,Brian Hartline,Cleveland Browns,2014
+101,Team 11,RB,Bishop Sankey,Tennessee Titans,2014
+102,Team 8,WR,Kendall Wright,Tennessee Titans,2014
+141,Team 12,WR,Hakeem Nicks,Tennessee Titans,2014
+145,Team 3,QB,Jake Locker,Tennessee Titans,2014
+147,Team 2,WR,Justin Hunter,Tennessee Titans,2014
+170,Team 7,WR,Harry Douglas,Tennessee Titans,2014
+185,Team 5,RB,Shonn Greene,Tennessee Titans,2014
+1,Team 12,RB,Chris Ivory,Jacksonville Jaguars,2015
+77,Team 1,RB,T.J. Yeldon,Jacksonville Jaguars,2015
+83,Team 7,WR,Allen Robinson,Jacksonville Jaguars,2015
+147,Team 3,QB,Blake Bortles,Jacksonville Jaguars,2015
+159,Team 5,RB,Denard Robinson,Jacksonville Jaguars,2015
+161,Team 9,TE,Julius Thomas,Jacksonville Jaguars,2015
+2,Team 7,WR,Odell Beckham Jr.,New York Giants,2015
+29,Team 1,QB,Eli Manning,New York Giants,2015
+102,Team 2,RB,Shane Vereen,New York Giants,2015
+104,Team 9,RB,Rashad Jennings,New York Giants,2015
+120,Team 6,TE,Larry Donnell,New York Giants,2015
+145,Team 6,WR,Victor Cruz,New York Giants,2015
+157,Team 12,RB,Andre Williams,New York Giants,2015
+193,Team 6,K,Josh Brown,New York Giants,2015
+3,Team 5,WR,T.Y. Hilton,Indianapolis Colts,2015
+13,Team 12,QB,Andrew Luck,Indianapolis Colts,2015
+71,Team 10,RB,Frank Gore,Indianapolis Colts,2015
+81,Team 11,WR,Andre Johnson,Indianapolis Colts,2015
+114,Team 4,TE,Dwayne Allen,Indianapolis Colts,2015
+173,Team 1,K,Adam Vinatieri,Indianapolis Colts,2015
+182,Team 7,WR,Donte Moncrief,Indianapolis Colts,2015
+186,Team 4,WR,Phillip Dorsett,Indianapolis Colts,2015
+4,Team 11,QB,Russell Wilson,Seattle Seahawks,2015
+20,Team 1,RB,Marshawn Lynch,Seattle Seahawks,2015
+48,Team 6,TE,Jimmy Graham,Seattle Seahawks,2015
+116,Team 1,D/ST,Seahawks D/ST,Seattle Seahawks,2015
+158,Team 7,K,Steven Hauschka,Seattle Seahawks,2015
+175,Team 4,RB,Fred Jackson,Seattle Seahawks,2015
+5,Team 9,RB,Le'Veon Bell,Pittsburgh Steelers,2015
+17,Team 9,WR,Antonio Brown,Pittsburgh Steelers,2015
+28,Team 8,QB,Ben Roethlisberger,Pittsburgh Steelers,2015
+111,Team 5,WR,Martavis Bryant,Pittsburgh Steelers,2015
+154,Team 5,WR,Markus Wheaton,Pittsburgh Steelers,2015
+180,Team 12,RB,DeAngelo Williams,Pittsburgh Steelers,2015
+6,Team 4,RB,Jeremy Hill,Cincinnati Bengals,2015
+38,Team 7,WR,A.J. Green,Cincinnati Bengals,2015
+85,Team 12,QB,Andy Dalton,Cincinnati Bengals,2015
+101,Team 1,RB,Giovani Bernard,Cincinnati Bengals,2015
+190,Team 3,WR,Brandon LaFell,Cincinnati Bengals,2015
+7,Team 2,TE,Rob Gronkowski,New England Patriots,2015
+24,Team 6,QB,Tom Brady,New England Patriots,2015
+60,Team 12,WR,Julian Edelman,New England Patriots,2015
+84,Team 12,TE,Martellus Bennett,New England Patriots,2015
+97,Team 6,RB,LeGarrette Blount,New England Patriots,2015
+162,Team 4,D/ST,Patriots D/ST,New England Patriots,2015
+165,Team 8,K,Stephen Gostkowski,New England Patriots,2015
+8,Team 1,WR,Golden Tate,Detroit Lions,2015
+30,Team 2,WR,Calvin Johnson,Detroit Lions,2015
+34,Team 5,QB,Matthew Stafford,Detroit Lions,2015
+100,Team 8,RB,Joique Bell,Detroit Lions,2015
+103,Team 4,RB,Ameer Abdullah,Detroit Lions,2015
+160,Team 11,TE,Eric Ebron,Detroit Lions,2015
+170,Team 10,WR,Marvin Jones,Detroit Lions,2015
+203,Team 7,D/ST,Lions D/ST,Detroit Lions,2015
+9,Team 8,WR,Terrell Owens, FA,2015
+11,Team 10,QB,Jake Delhomme, FA,2015
+32,Team 9,QB,Donovan McNabb, FA,2015
+33,Team 11,QB,Jeff Garcia, FA,2015
+43,Team 2,QB,Mark Brunell, FA,2015
+46,Team 3,QB,Daunte Culpepper, FA,2015
+92,Team 1,RB,LaDainian Tomlinson, FA,2015
+99,Team 3,RB,Joseph Randle, FA,2015
+133,Team 12,K,Olindo Mare, FA,2015
+151,Team 4,TE,Jeremy Shockey, FA,2015
+155,Team 7,TE,Todd Heap, FA,2015
+10,Team 3,WR,Demaryius Thomas,Denver Broncos,2015
+16,Team 11,QB,Peyton Manning,Denver Broncos,2015
+26,Team 10,RB,C.J. Anderson,Denver Broncos,2015
+44,Team 1,WR,Emmanuel Sanders,Denver Broncos,2015
+113,Team 9,TE,Owen Daniels,Denver Broncos,2015
+123,Team 3,D/ST,Broncos D/ST,Denver Broncos,2015
+136,Team 11,TE,Vernon Davis,Denver Broncos,2015
+146,Team 10,RB,Ronnie Hillman,Denver Broncos,2015
+171,Team 3,QB,Mark Sanchez,Denver Broncos,2015
+178,Team 5,WR,Cody Latimer,Denver Broncos,2015
+202,Team 5,K,Brandon McManus,Denver Broncos,2015
+12,Team 6,WR,DeAndre Hopkins,Houston Texans,2015
+57,Team 11,RB,Lamar Miller,Houston Texans,2015
+64,Team 11,RB,Arian Foster,Houston Texans,2015
+119,Team 10,D/ST,Texans D/ST,Houston Texans,2015
+140,Team 1,RB,Alfred Blue,Houston Texans,2015
+194,Team 10,QB,Brian Hoyer,Houston Texans,2015
+14,Team 7,QB,Aaron Rodgers,Green Bay Packers,2015
+18,Team 4,RB,Eddie Lacy,Green Bay Packers,2015
+40,Team 11,WR,Randall Cobb,Green Bay Packers,2015
+74,Team 10,WR,Davante Adams,Green Bay Packers,2015
+163,Team 2,WR,Jordy Nelson,Green Bay Packers,2015
+188,Team 1,WR,Ty Montgomery,Green Bay Packers,2015
+200,Team 9,K,Mason Crosby,Green Bay Packers,2015
+15,Team 5,RB,Adrian Peterson,Minnesota Vikings,2015
+67,Team 2,QB,Teddy Bridgewater,Minnesota Vikings,2015
+117,Team 8,WR,Charles Johnson,Minnesota Vikings,2015
+192,Team 6,RB,Jerick McKinnon,Minnesota Vikings,2015
+204,Team 12,D/ST,Vikings D/ST,Minnesota Vikings,2015
+19,Team 2,QB,Drew Brees,New Orleans Saints,2015
+42,Team 4,WR,Brandin Cooks,New Orleans Saints,2015
+59,Team 7,RB,Mark Ingram,New Orleans Saints,2015
+105,Team 11,RB,C.J. Spiller,New Orleans Saints,2015
+153,Team 11,WR,Marques Colston,New Orleans Saints,2015
+164,Team 1,TE,Coby Fleener,New Orleans Saints,2015
+197,Team 1,WR,Brandon Coleman,New Orleans Saints,2015
+21,Team 8,RB,Jamaal Charles,Kansas City Chiefs,2015
+61,Team 12,WR,Jeremy Maclin,Kansas City Chiefs,2015
+86,Team 7,TE,Travis Kelce,Kansas City Chiefs,2015
+122,Team 10,RB,Knile Davis,Kansas City Chiefs,2015
+134,Team 7,QB,Alex Smith,Kansas City Chiefs,2015
+22,Team 3,WR,Dez Bryant,Dallas Cowboys,2015
+25,Team 6,QB,Tony Romo,Dallas Cowboys,2015
+54,Team 2,RB,Alfred Morris,Dallas Cowboys,2015
+87,Team 5,TE,Jason Witten,Dallas Cowboys,2015
+96,Team 6,RB,Darren McFadden,Dallas Cowboys,2015
+198,Team 2,K,Dan Bailey,Dallas Cowboys,2015
+23,Team 10,WR,Julio Jones,Atlanta Falcons,2015
+31,Team 4,QB,Matt Ryan,Atlanta Falcons,2015
+58,Team 5,TE,Tony Gonzalez,Atlanta Falcons,2015
+112,Team 11,RB,Tevin Coleman,Atlanta Falcons,2015
+148,Team 8,RB,Devonta Freeman,Atlanta Falcons,2015
+149,Team 1,WR,Roddy White,Atlanta Falcons,2015
+195,Team 3,K,Matt Bryant,Atlanta Falcons,2015
+27,Team 3,QB,Sam Bradford,Philadelphia Eagles,2015
+49,Team 6,WR,Jordan Matthews,Philadelphia Eagles,2015
+80,Team 9,WR,Nelson Agholor,Philadelphia Eagles,2015
+94,Team 3,TE,Zach Ertz,Philadelphia Eagles,2015
+118,Team 3,RB,Ryan Mathews,Philadelphia Eagles,2015
+124,Team 8,D/ST,Eagles D/ST,Philadelphia Eagles,2015
+142,Team 3,RB,Darren Sproles,Philadelphia Eagles,2015
+167,Team 10,K,Cody Parkey,Philadelphia Eagles,2015
+174,Team 2,WR,Rueben Randle,Philadelphia Eagles,2015
+35,Team 7,QB,Cam Newton,Carolina Panthers,2015
+68,Team 1,TE,Greg Olsen,Carolina Panthers,2015
+70,Team 3,RB,Jonathan Stewart,Carolina Panthers,2015
+131,Team 7,WR,Devin Funchess,Carolina Panthers,2015
+166,Team 3,WR,Kelvin Benjamin,Carolina Panthers,2015
+187,Team 2,RB,Cameron Artis-Payne,Carolina Panthers,2015
+36,Team 12,RB,DeMarco Murray,Tennessee Titans,2015
+90,Team 4,QB,Marcus Mariota,Tennessee Titans,2015
+98,Team 10,TE,Delanie Walker,Tennessee Titans,2015
+107,Team 7,WR,Kendall Wright,Tennessee Titans,2015
+127,Team 4,WR,Dorial Green-Beckham,Tennessee Titans,2015
+156,Team 12,RB,Bishop Sankey,Tennessee Titans,2015
+37,Team 12,RB,Matt Forte,New York Jets,2015
+82,Team 5,WR,Brandon Marshall,New York Jets,2015
+108,Team 12,WR,Eric Decker,New York Jets,2015
+135,Team 5,D/ST,Jets D/ST,New York Jets,2015
+177,Team 11,QB,Ryan Fitzpatrick,New York Jets,2015
+199,Team 4,K,Nick Folk,New York Jets,2015
+39,Team 5,QB,Philip Rivers,San Diego Chargers,2015
+69,Team 8,WR,Keenan Allen,San Diego Chargers,2015
+73,Team 6,RB,Melvin Gordon,San Diego Chargers,2015
+130,Team 5,RB,Danny Woodhead,San Diego Chargers,2015
+183,Team 5,WR,Malcom Floyd,San Diego Chargers,2015
+41,Team 9,QB,Ryan Tannehill,Miami Dolphins,2015
+55,Team 4,WR,Jarvis Landry,Miami Dolphins,2015
+93,Team 8,TE,Jordan Cameron,Miami Dolphins,2015
+150,Team 2,WR,DeVante Parker,Miami Dolphins,2015
+152,Team 9,D/ST,Dolphins D/ST,Miami Dolphins,2015
+45,Team 8,RB,LeSean McCoy,Buffalo Bills,2015
+72,Team 6,WR,Sammy Watkins,Buffalo Bills,2015
+115,Team 2,D/ST,Bills D/ST,Buffalo Bills,2015
+139,Team 2,QB,Tyrod Taylor,Buffalo Bills,2015
+176,Team 9,WR,Percy Harvin,Buffalo Bills,2015
+47,Team 10,WR,Alshon Jeffery,Chicago Bears,2015
+50,Team 10,QB,Jay Cutler,Chicago Bears,2015
+141,Team 8,WR,Eddie Royal,Chicago Bears,2015
+51,Team 3,QB,Colin Kaepernick,San Francisco 49ers,2015
+62,Team 7,RB,Carlos Hyde,San Francisco 49ers,2015
+125,Team 1,WR,Anquan Boldin,San Francisco 49ers,2015
+144,Team 6,WR,Torrey Smith,San Francisco 49ers,2015
+52,Team 8,WR,Mike Evans,Tampa Bay Buccaneers,2015
+75,Team 3,WR,Vincent Jackson,Tampa Bay Buccaneers,2015
+88,Team 11,RB,Doug Martin,Tampa Bay Buccaneers,2015
+89,Team 9,QB,Jameis Winston,Tampa Bay Buccaneers,2015
+179,Team 7,RB,Charles Sims,Tampa Bay Buccaneers,2015
+53,Team 1,QB,Joe Flacco,Baltimore Ravens,2015
+56,Team 9,RB,Justin Forsett,Baltimore Ravens,2015
+76,Team 8,WR,Mike Wallace,Baltimore Ravens,2015
+109,Team 12,WR,Steve Smith Sr.,Baltimore Ravens,2015
+121,Team 6,WR,Brandon Stokley,Baltimore Ravens,2015
+185,Team 9,WR,Breshad Perriman,Baltimore Ravens,2015
+189,Team 8,RB,Lorenzo Taliaferro,Baltimore Ravens,2015
+191,Team 10,D/ST,Ravens D/ST,Baltimore Ravens,2015
+196,Team 8,RB,Terrance West,Baltimore Ravens,2015
+201,Team 11,K,Justin Tucker,Baltimore Ravens,2015
+63,Team 5,RB,Andre Ellington,Arizona Cardinals,2015
+95,Team 10,QB,Carson Palmer,Arizona Cardinals,2015
+106,Team 5,WR,Larry Fitzgerald,Arizona Cardinals,2015
+126,Team 2,WR,Michael Floyd,Arizona Cardinals,2015
+128,Team 9,WR,John Brown,Arizona Cardinals,2015
+168,Team 6,D/ST,Cardinals D/ST,Arizona Cardinals,2015
+181,Team 12,RB,David Johnson,Arizona Cardinals,2015
+65,Team 9,RB,Latavius Murray,Oakland Raiders,2015
+79,Team 4,WR,Amari Cooper,Oakland Raiders,2015
+138,Team 4,QB,Derek Carr,Oakland Raiders,2015
+172,Team 8,WR,Michael Crabtree,Oakland Raiders,2015
+66,Team 4,RB,Isaiah Crowell,Cleveland Browns,2015
+110,Team 7,RB,Duke Johnson Jr.,Cleveland Browns,2015
+78,Team 2,RB,Todd Gurley,St. Louis Rams,2015
+129,Team 11,D/ST,Rams D/ST,St. Louis Rams,2015
+132,Team 12,RB,Tre Mason,St. Louis Rams,2015
+137,Team 9,QB,Nick Foles,St. Louis Rams,2015
+184,Team 11,WR,Brian Quick,St. Louis Rams,2015
+91,Team 2,WR,DeSean Jackson,Washington Redskins,2015
+143,Team 10,WR,Pierre Garcon,Washington Redskins,2015
+169,Team 6,QB,Kirk Cousins,Washington Redskins,2015
+1,Team 11,QB,Aaron Rodgers,Green Bay Packers,2016
+27,Team 6,WR,Jordy Nelson,Green Bay Packers,2016
+56,Team 4,WR,Randall Cobb,Green Bay Packers,2016
+89,Team 4,TE,Martellus Bennett,Green Bay Packers,2016
+123,Team 6,RB,Christine Michael,Green Bay Packers,2016
+155,Team 7,RB,James Starks,Green Bay Packers,2016
+159,Team 8,D/ST,Packers D/ST,Green Bay Packers,2016
+186,Team 2,K,Mason Crosby,Green Bay Packers,2016
+2,Team 10,WR,Antonio Brown,Pittsburgh Steelers,2016
+15,Team 8,QB,Ben Roethlisberger,Pittsburgh Steelers,2016
+16,Team 5,RB,Le'Veon Bell,Pittsburgh Steelers,2016
+121,Team 11,RB,DeAngelo Williams,Pittsburgh Steelers,2016
+197,Team 9,K,Chris Boswell,Pittsburgh Steelers,2016
+3,Team 6,QB,Andrew Luck,Indianapolis Colts,2016
+40,Team 5,WR,T.Y. Hilton,Indianapolis Colts,2016
+66,Team 2,WR,Donte Moncrief,Indianapolis Colts,2016
+92,Team 9,RB,Frank Gore,Indianapolis Colts,2016
+161,Team 4,WR,Phillip Dorsett,Indianapolis Colts,2016
+170,Team 10,WR,Kamar Aiken,Indianapolis Colts,2016
+172,Team 12,K,Adam Vinatieri,Indianapolis Colts,2016
+4,Team 12,QB,Cam Newton,Carolina Panthers,2016
+51,Team 6,WR,Kelvin Benjamin,Carolina Panthers,2016
+55,Team 2,RB,Jonathan Stewart,Carolina Panthers,2016
+61,Team 1,TE,Greg Olsen,Carolina Panthers,2016
+129,Team 5,D/ST,Panthers D/ST,Carolina Panthers,2016
+139,Team 3,WR,Devin Funchess,Carolina Panthers,2016
+185,Team 4,WR,Ted Ginn Jr.,Carolina Panthers,2016
+195,Team 6,K,Graham Gano,Carolina Panthers,2016
+5,Team 9,QB,Russell Wilson,Seattle Seahawks,2016
+34,Team 8,RB,Eddie Lacy,Seattle Seahawks,2016
+72,Team 11,RB,Thomas Rawls,Seattle Seahawks,2016
+74,Team 10,WR,Doug Baldwin,Seattle Seahawks,2016
+112,Team 5,WR,Tyler Lockett,Seattle Seahawks,2016
+127,Team 2,D/ST,Seahawks D/ST,Seattle Seahawks,2016
+160,Team 5,TE,Jimmy Graham,Seattle Seahawks,2016
+203,Team 7,K,Blair Walsh,Seattle Seahawks,2016
+6,Team 3,WR,Odell Beckham Jr.,New York Giants,2016
+22,Team 6,QB,Eli Manning,New York Giants,2016
+29,Team 9,WR,Brandon Marshall,New York Giants,2016
+104,Team 4,WR,Sterling Shepard,New York Giants,2016
+114,Team 2,RB,Rashad Jennings,New York Giants,2016
+184,Team 5,RB,Shane Vereen,New York Giants,2016
+191,Team 10,WR,Victor Cruz,New York Giants,2016
+7,Team 2,WR,Julio Jones,Atlanta Falcons,2016
+21,Team 12,RB,Devonta Freeman,Atlanta Falcons,2016
+53,Team 9,QB,Matt Ryan,Atlanta Falcons,2016
+149,Team 9,RB,Tevin Coleman,Atlanta Falcons,2016
+177,Team 5,WR,Mohamed Sanu,Atlanta Falcons,2016
+201,Team 5,K,Matt Bryant,Atlanta Falcons,2016
+8,Team 4,QB,Drew Brees,New Orleans Saints,2016
+26,Team 10,RB,Mark Ingram,New Orleans Saints,2016
+90,Team 2,TE,Coby Fleener,New Orleans Saints,2016
+131,Team 7,WR,Willie Snead,New Orleans Saints,2016
+167,Team 10,WR,Michael Thomas,New Orleans Saints,2016
+9,Team 5,RB,Todd Gurley,Los Angeles Rams,2016
+109,Team 1,WR,Tavon Austin,Los Angeles Rams,2016
+10,Team 8,WR,DeAndre Hopkins,Houston Texans,2016
+20,Team 9,RB,Lamar Miller,Houston Texans,2016
+147,Team 6,D/ST,Texans D/ST,Houston Texans,2016
+153,Team 5,WR,Will Fuller V,Houston Texans,2016
+11,Team 7,RB,Adrian Peterson,Minnesota Vikings,2016
+67,Team 3,RB,Latavius Murray,Minnesota Vikings,2016
+99,Team 6,WR,Stefon Diggs,Minnesota Vikings,2016
+113,Team 4,QB,Sam Bradford,Minnesota Vikings,2016
+169,Team 11,QB,Case Keenum,Minnesota Vikings,2016
+188,Team 9,D/ST,Vikings D/ST,Minnesota Vikings,2016
+192,Team 11,RB,Jerick McKinnon,Minnesota Vikings,2016
+12,Team 1,RB,David Johnson,Arizona Cardinals,2016
+18,Team 2,QB,Carson Palmer,Arizona Cardinals,2016
+75,Team 6,WR,Larry Fitzgerald,Arizona Cardinals,2016
+81,Team 5,WR,John Brown,Arizona Cardinals,2016
+141,Team 12,D/ST,Cardinals D/ST,Arizona Cardinals,2016
+13,Team 1,TE,Rob Gronkowski,New England Patriots,2016
+19,Team 3,QB,Tom Brady,New England Patriots,2016
+52,Team 12,WR,Brandin Cooks,New England Patriots,2016
+54,Team 3,WR,Julian Edelman,New England Patriots,2016
+86,Team 7,WR,Michael Floyd,New England Patriots,2016
+107,Team 7,RB,LeGarrette Blount,New England Patriots,2016
+120,Team 11,TE,Dwayne Allen,New England Patriots,2016
+135,Team 8,K,Stephen Gostkowski,New England Patriots,2016
+137,Team 4,WR,Chris Hogan,New England Patriots,2016
+168,Team 11,RB,James White,New England Patriots,2016
+187,Team 3,D/ST,Patriots D/ST,New England Patriots,2016
+199,Team 2,QB,Jimmy Garoppolo,New England Patriots,2016
+14,Team 7,WR,Dez Bryant,Dallas Cowboys,2016
+17,Team 4,RB,Ezekiel Elliott,Dallas Cowboys,2016
+108,Team 1,QB,Dak Prescott,Dallas Cowboys,2016
+130,Team 8,QB,Tony Romo,Dallas Cowboys,2016
+142,Team 6,RB,Alfred Morris,Dallas Cowboys,2016
+164,Team 9,TE,Jason Witten,Dallas Cowboys,2016
+176,Team 4,K,Dan Bailey,Dallas Cowboys,2016
+23,Team 10,QB,Blake Bortles,Jacksonville Jaguars,2016
+24,Team 11,WR,Allen Robinson,Jacksonville Jaguars,2016
+105,Team 5,WR,Allen Hurns,Jacksonville Jaguars,2016
+116,Team 9,RB,T.J. Yeldon,Jacksonville Jaguars,2016
+117,Team 12,RB,Chris Ivory,Jacksonville Jaguars,2016
+196,Team 12,WR,Marqise Lee,Jacksonville Jaguars,2016
+25,Team 11,WR,A.J. Green,Cincinnati Bengals,2016
+28,Team 12,QB,Andy Dalton,Cincinnati Bengals,2016
+63,Team 8,RB,Jeremy Hill,Cincinnati Bengals,2016
+78,Team 3,RB,Giovani Bernard,Cincinnati Bengals,2016
+96,Team 11,TE,Tyler Eifert,Cincinnati Bengals,2016
+146,Team 10,D/ST,Bengals D/ST,Cincinnati Bengals,2016
+179,Team 7,WR,Tyler Boyd,Cincinnati Bengals,2016
+30,Team 3,QB,Philip Rivers,San Diego Chargers,2016
+48,Team 11,WR,Keenan Allen,San Diego Chargers,2016
+85,Team 1,RB,Melvin Gordon,San Diego Chargers,2016
+100,Team 12,TE,Antonio Gates,San Diego Chargers,2016
+111,Team 8,WR,Travis Benjamin,San Diego Chargers,2016
+31,Team 2,RB,Doug Martin,Tampa Bay Buccaneers,2016
+33,Team 5,QB,Jameis Winston,Tampa Bay Buccaneers,2016
+43,Team 3,WR,Mike Evans,Tampa Bay Buccaneers,2016
+76,Team 12,WR,DeSean Jackson,Tampa Bay Buccaneers,2016
+93,Team 12,WR,Vincent Jackson,Tampa Bay Buccaneers,2016
+132,Team 1,RB,Charles Sims,Tampa Bay Buccaneers,2016
+198,Team 3,K,Roberto Aguayo,Tampa Bay Buccaneers,2016
+32,Team 4,QB,Kirk Cousins,Washington Redskins,2016
+46,Team 6,TE,Jordan Reed,Washington Redskins,2016
+77,Team 9,RB,Matt Jones,Washington Redskins,2016
+189,Team 12,WR,Terrelle Pryor Sr.,Washington Redskins,2016
+35,Team 7,QB,Derek Carr,Oakland Raiders,2016
+41,Team 4,WR,Amari Cooper,Oakland Raiders,2016
+115,Team 3,WR,Michael Crabtree,Oakland Raiders,2016
+182,Team 7,D/ST,Raiders D/ST,Oakland Raiders,2016
+36,Team 1,QB,Marcus Mariota,Tennessee Titans,2016
+70,Team 6,RB,DeMarco Murray,Tennessee Titans,2016
+82,Team 8,TE,Delanie Walker,Tennessee Titans,2016
+119,Team 10,RB,Derrick Henry,Tennessee Titans,2016
+178,Team 8,WR,Tajae Sharpe,Tennessee Titans,2016
+180,Team 1,WR,Rishard Matthews,Tennessee Titans,2016
+37,Team 1,WR,Jarvis Landry,Miami Dolphins,2016
+50,Team 10,QB,Ryan Tannehill,Miami Dolphins,2016
+73,Team 11,RB,Arian Foster,Miami Dolphins,2016
+118,Team 6,RB,Jay Ajayi,Miami Dolphins,2016
+122,Team 10,TE,Julius Thomas,Miami Dolphins,2016
+125,Team 9,WR,DeVante Parker,Miami Dolphins,2016
+194,Team 10,WR,Kenny Stills,Miami Dolphins,2016
+38,Team 7,QB,Matthew Stafford,Detroit Lions,2016
+60,Team 1,WR,Golden Tate,Detroit Lions,2016
+103,Team 2,WR,Marvin Jones,Detroit Lions,2016
+126,Team 3,RB,Ameer Abdullah,Detroit Lions,2016
+150,Team 3,RB,Theo Riddick,Detroit Lions,2016
+165,Team 12,TE,Eric Ebron,Detroit Lions,2016
+166,Team 6,WR,Anquan Boldin,Detroit Lions,2016
+39,Team 8,WR,Alshon Jeffery,Philadelphia Eagles,2016
+69,Team 12,RB,Ryan Mathews,Philadelphia Eagles,2016
+87,Team 8,WR,Jordan Matthews,Philadelphia Eagles,2016
+91,Team 3,QB,Carson Wentz,Philadelphia Eagles,2016
+102,Team 3,TE,Zach Ertz,Philadelphia Eagles,2016
+136,Team 5,WR,Torrey Smith,Philadelphia Eagles,2016
+151,Team 2,RB,Darren Sproles,Philadelphia Eagles,2016
+174,Team 3,WR,Dorial Green-Beckham,Philadelphia Eagles,2016
+42,Team 2,QB,Tyrod Taylor,Buffalo Bills,2016
+44,Team 9,WR,Sammy Watkins,Buffalo Bills,2016
+47,Team 10,RB,LeSean McCoy,Buffalo Bills,2016
+143,Team 10,K,Steven Hauschka,Buffalo Bills,2016
+190,Team 6,RB,Reggie Bush,Buffalo Bills,2016
+45,Team 12,RB,Jamaal Charles,Kansas City Chiefs,2016
+65,Team 4,WR,Jeremy Maclin,Kansas City Chiefs,2016
+83,Team 7,TE,Travis Kelce,Kansas City Chiefs,2016
+84,Team 1,QB,Alex Smith,Kansas City Chiefs,2016
+101,Team 9,RB,Spencer Ware,Kansas City Chiefs,2016
+156,Team 1,D/ST,Chiefs D/ST,Kansas City Chiefs,2016
+163,Team 3,RB,Charcandrick West,Kansas City Chiefs,2016
+183,Team 8,RB,C.J. Spiller,Kansas City Chiefs,2016
+49,Team 11,RB,C.J. Anderson,Denver Broncos,2016
+59,Team 7,WR,Demaryius Thomas,Denver Broncos,2016
+79,Team 2,WR,Emmanuel Sanders,Denver Broncos,2016
+98,Team 10,QB,Trevor Siemian,Denver Broncos,2016
+128,Team 4,RB,Devontae Booker,Denver Broncos,2016
+145,Team 11,D/ST,Broncos D/ST,Denver Broncos,2016
+181,Team 1,RB,Justin Forsett,Denver Broncos,2016
+200,Team 4,TE,Virgil Green,Denver Broncos,2016
+57,Team 5,RB,Carlos Hyde,San Francisco 49ers,2016
+138,Team 2,QB,Blaine Gabbert,San Francisco 49ers,2016
+171,Team 6,WR,Pierre Garcon,San Francisco 49ers,2016
+204,Team 1,QB,Colin Kaepernick,San Francisco 49ers,2016
+58,Team 8,QB,Ryan Fitzpatrick,New York Jets,2016
+68,Team 9,RB,Matt Forte,New York Jets,2016
+71,Team 10,WR,Eric Decker,New York Jets,2016
+140,Team 9,RB,Bilal Powell,New York Jets,2016
+152,Team 4,D/ST,Jets D/ST,New York Jets,2016
+193,Team 11,K,Chandler Catanzaro,New York Jets,2016
+62,Team 7,RB,Danny Woodhead,Baltimore Ravens,2016
+64,Team 5,QB,Joe Flacco,Baltimore Ravens,2016
+124,Team 12,WR,Mike Wallace,Baltimore Ravens,2016
+133,Team 1,K,Justin Tucker,Baltimore Ravens,2016
+144,Team 11,RB,Terrance West,Baltimore Ravens,2016
+154,Team 8,RB,Kenneth Dixon,Baltimore Ravens,2016
+173,Team 9,WR,Steve Smith Sr.,Baltimore Ravens,2016
+175,Team 2,RB,Javorius Allen,Baltimore Ravens,2016
+80,Team 4,RB,Jeremy Langford,Chicago Bears,2016
+110,Team 7,QB,Jay Cutler,Chicago Bears,2016
+134,Team 7,WR,Kevin White,Chicago Bears,2016
+157,Team 1,TE,Zach Miller,Chicago Bears,2016
+162,Team 2,WR,Markus Wheaton,Chicago Bears,2016
+88,Team 5,TE,Gary Barnidge,Cleveland Browns,2016
+94,Team 6,WR,Josh Gordon,Cleveland Browns,2016
+95,Team 10,QB,Brock Osweiler,Cleveland Browns,2016
+97,Team 11,QB,Robert Griffin III,Cleveland Browns,2016
+106,Team 8,RB,Duke Johnson Jr.,Cleveland Browns,2016
+148,Team 12,RB,Isaiah Crowell,Cleveland Browns,2016
+158,Team 7,WR,Corey Coleman,Cleveland Browns,2016
+202,Team 8,WR,Kenny Britt,Cleveland Browns,2016
+1,Team 1,K,Shayne Graham,Atlanta Falcons,2017
+19,Team 10,WR,Julio Jones,Atlanta Falcons,2017
+21,Team 11,QB,Matt Ryan,Atlanta Falcons,2017
+31,Team 3,RB,Devonta Freeman,Atlanta Falcons,2017
+115,Team 10,RB,Tevin Coleman,Atlanta Falcons,2017
+166,Team 7,K,Matt Bryant,Atlanta Falcons,2017
+176,Team 4,TE,Austin Hooper,Atlanta Falcons,2017
+2,Team 2,QB,Tony Romo,Dallas Cowboys,2017
+6,Team 3,QB,Luke McCown,Dallas Cowboys,2017
+35,Team 2,QB,Dak Prescott,Dallas Cowboys,2017
+49,Team 9,WR,Dez Bryant,Dallas Cowboys,2017
+59,Team 2,RB,Ezekiel Elliott,Dallas Cowboys,2017
+92,Team 6,RB,Darren McFadden,Dallas Cowboys,2017
+170,Team 12,TE,Jason Witten,Dallas Cowboys,2017
+180,Team 1,WR,Cole Beasley,Dallas Cowboys,2017
+182,Team 2,K,Dan Bailey,Dallas Cowboys,2017
+3,Team 5,QB,Mike Vick,Pittsburgh Steelers,2017
+15,Team 5,RB,Le'Veon Bell,Pittsburgh Steelers,2017
+16,Team 8,WR,Antonio Brown,Pittsburgh Steelers,2017
+43,Team 10,QB,Ben Roethlisberger,Pittsburgh Steelers,2017
+86,Team 2,WR,Martavis Bryant,Pittsburgh Steelers,2017
+200,Team 4,D/ST,Steelers D/ST,Pittsburgh Steelers,2017
+4,Team 8,K,Billy Cundiff,Cleveland Browns,2017
+69,Team 11,RB,Carlos Hyde,Cleveland Browns,2017
+79,Team 3,QB,Tyrod Taylor,Cleveland Browns,2017
+105,Team 8,WR,Jarvis Landry,Cleveland Browns,2017
+131,Team 2,RB,Duke Johnson Jr.,Cleveland Browns,2017
+163,Team 10,WR,Corey Coleman,Cleveland Browns,2017
+5,Team 4,QB,Dan Orlovsky,Los Angeles Rams,2017
+29,Team 6,WR,Brandin Cooks,Los Angeles Rams,2017
+42,Team 3,RB,Todd Gurley II,Los Angeles Rams,2017
+129,Team 8,QB,Jared Goff,Los Angeles Rams,2017
+192,Team 9,D/ST,Rams D/ST,Los Angeles Rams,2017
+7,Team 10,QB,Shaun Hill,Minnesota Vikings,2017
+33,Team 8,QB,Kirk Cousins,Minnesota Vikings,2017
+70,Team 7,RB,Dalvin Cook,Minnesota Vikings,2017
+89,Team 4,WR,Stefon Diggs,Minnesota Vikings,2017
+109,Team 1,TE,Kyle Rudolph,Minnesota Vikings,2017
+147,Team 7,WR,Adam Thielen,Minnesota Vikings,2017
+162,Team 3,QB,Trevor Siemian,Minnesota Vikings,2017
+164,Team 6,RB,Latavius Murray,Minnesota Vikings,2017
+165,Team 11,D/ST,Vikings D/ST,Minnesota Vikings,2017
+8,Team 6,TE,Kellen Winslow,New York Jets,2017
+55,Team 3,WR,Terrelle Pryor Sr.,New York Jets,2017
+67,Team 10,RB,Isaiah Crowell,New York Jets,2017
+85,Team 1,RB,Bilal Powell,New York Jets,2017
+156,Team 1,RB,Matt Forte,New York Jets,2017
+159,Team 5,RB,Thomas Rawls,New York Jets,2017
+9,Team 11,K,Mike Nugent,Chicago Bears,2017
+37,Team 1,RB,Jordan Howard,Chicago Bears,2017
+100,Team 11,WR,Allen Robinson,Chicago Bears,2017
+139,Team 10,WR,Kevin White,Chicago Bears,2017
+10,Team 7,WR,Joshua Cribbs,Indianapolis Colts,2017
+45,Team 11,QB,Andrew Luck,Indianapolis Colts,2017
+47,Team 12,WR,T.Y. Hilton,Indianapolis Colts,2017
+122,Team 12,TE,Eric Ebron,Indianapolis Colts,2017
+167,Team 12,QB,Scott Tolzien,Indianapolis Colts,2017
+171,Team 7,TE,Jack Doyle,Indianapolis Colts,2017
+177,Team 8,K,Adam Vinatieri,Indianapolis Colts,2017
+11,Team 12,K,Josh Brown,New York Giants,2017
+20,Team 6,WR,Odell Beckham Jr.,New York Giants,2017
+44,Team 6,QB,Eli Manning,New York Giants,2017
+98,Team 12,WR,Brandon Marshall,New York Giants,2017
+118,Team 7,RB,Paul Perkins,New York Giants,2017
+140,Team 6,RB,Jonathan Stewart,New York Giants,2017
+150,Team 10,D/ST,Giants D/ST,New York Giants,2017
+178,Team 5,WR,Sterling Shepard,New York Giants,2017
+195,Team 7,RB,Shane Vereen,New York Giants,2017
+12,Team 9,K,Josh Scobee,New Orleans Saints,2017
+18,Team 3,QB,Drew Brees,New Orleans Saints,2017
+41,Team 4,WR,Michael Thomas,New Orleans Saints,2017
+82,Team 5,RB,Mark Ingram,New Orleans Saints,2017
+153,Team 8,WR,Ted Ginn Jr.,New Orleans Saints,2017
+154,Team 5,WR,Willie Snead,New Orleans Saints,2017
+173,Team 6,TE,Coby Fleener,New Orleans Saints,2017
+174,Team 10,RB,Alvin Kamara,New Orleans Saints,2017
+187,Team 10,K,Wil Lutz,New Orleans Saints,2017
+13,Team 1,QB,Aaron Rodgers,Green Bay Packers,2017
+78,Team 10,TE,Jimmy Graham,Green Bay Packers,2017
+80,Team 4,RB,Ty Montgomery,Green Bay Packers,2017
+84,Team 1,WR,Davante Adams,Green Bay Packers,2017
+132,Team 1,WR,Randall Cobb,Green Bay Packers,2017
+144,Team 9,QB,DeShone Kizer,Green Bay Packers,2017
+185,Team 4,K,Mason Crosby,Green Bay Packers,2017
+14,Team 2,RB,David Johnson,Arizona Cardinals,2017
+48,Team 9,QB,Carson Palmer,Arizona Cardinals,2017
+74,Team 12,QB,Sam Bradford,Arizona Cardinals,2017
+90,Team 3,WR,Larry Fitzgerald,Arizona Cardinals,2017
+95,Team 12,RB,Adrian Peterson,Arizona Cardinals,2017
+133,Team 1,D/ST,Cardinals D/ST,Arizona Cardinals,2017
+17,Team 4,QB,Tom Brady,New England Patriots,2017
+40,Team 8,TE,Rob Gronkowski,New England Patriots,2017
+113,Team 4,WR,Chris Hogan,New England Patriots,2017
+114,Team 3,RB,Mike Gillislee,New England Patriots,2017
+116,Team 6,TE,Martellus Bennett,New England Patriots,2017
+127,Team 3,K,Stephen Gostkowski,New England Patriots,2017
+137,Team 4,RB,James White,New England Patriots,2017
+141,Team 11,WR,Kenny Britt,New England Patriots,2017
+149,Team 6,WR,Jordan Matthews,New England Patriots,2017
+168,Team 9,RB,Rex Burkhead,New England Patriots,2017
+172,Team 11,QB,Brian Hoyer,New England Patriots,2017
+188,Team 6,D/ST,Patriots D/ST,New England Patriots,2017
+189,Team 11,RB,Jeremy Hill,New England Patriots,2017
+22,Team 7,QB,Cam Newton,Carolina Panthers,2017
+65,Team 4,RB,Christian McCaffrey,Carolina Panthers,2017
+66,Team 3,TE,Greg Olsen,Carolina Panthers,2017
+151,Team 3,D/ST,Panthers D/ST,Carolina Panthers,2017
+175,Team 3,WR,Torrey Smith,Carolina Panthers,2017
+193,Team 9,K,Graham Gano,Carolina Panthers,2017
+23,Team 12,WR,A.J. Green,Cincinnati Bengals,2017
+46,Team 7,QB,Andy Dalton,Cincinnati Bengals,2017
+77,Team 6,RB,Joe Mixon,Cincinnati Bengals,2017
+110,Team 2,TE,Tyler Eifert,Cincinnati Bengals,2017
+136,Team 8,RB,Giovani Bernard,Cincinnati Bengals,2017
+24,Team 9,RB,LeSean McCoy,Buffalo Bills,2017
+76,Team 11,WR,Kelvin Benjamin,Buffalo Bills,2017
+158,Team 2,WR,Zay Jones,Buffalo Bills,2017
+204,Team 1,TE,Charles Clay,Buffalo Bills,2017
+25,Team 9,QB,Marcus Mariota,Tennessee Titans,2017
+50,Team 12,RB,DeMarco Murray,Tennessee Titans,2017
+87,Team 5,TE,Delanie Walker,Tennessee Titans,2017
+104,Team 4,WR,Eric Decker,Tennessee Titans,2017
+120,Team 9,RB,Derrick Henry,Tennessee Titans,2017
+124,Team 11,WR,Rishard Matthews,Tennessee Titans,2017
+169,Team 9,WR,Corey Davis,Tennessee Titans,2017
+196,Team 11,RB,Dion Lewis,Tennessee Titans,2017
+26,Team 12,RB,Melvin Gordon,Los Angeles Chargers,2017
+39,Team 5,QB,Philip Rivers,Los Angeles Chargers,2017
+62,Team 2,WR,Keenan Allen,Los Angeles Chargers,2017
+117,Team 11,TE,Hunter Henry,Los Angeles Chargers,2017
+134,Team 2,WR,Tyrell Williams,Los Angeles Chargers,2017
+197,Team 6,K,Younghoe Koo,Los Angeles Chargers,2017
+27,Team 7,WR,Jordy Nelson,Oakland Raiders,2017
+36,Team 1,QB,Derek Carr,Oakland Raiders,2017
+51,Team 7,WR,Amari Cooper,Oakland Raiders,2017
+72,Team 9,RB,Marshawn Lynch,Oakland Raiders,2017
+97,Team 9,RB,Doug Martin,Oakland Raiders,2017
+191,Team 12,K,Sebastian Janikowski,Oakland Raiders,2017
+28,Team 11,WR,Mike Evans,Tampa Bay Buccaneers,2017
+34,Team 5,QB,Jameis Winston,Tampa Bay Buccaneers,2017
+119,Team 12,WR,DeSean Jackson,Tampa Bay Buccaneers,2017
+125,Team 6,RB,Jacquizz Rodgers,Tampa Bay Buccaneers,2017
+199,Team 3,RB,Charles Sims,Tampa Bay Buccaneers,2017
+30,Team 10,QB,Russell Wilson,Seattle Seahawks,2017
+60,Team 1,WR,Doug Baldwin,Seattle Seahawks,2017
+101,Team 6,RB,Eddie Lacy,Seattle Seahawks,2017
+111,Team 5,D/ST,Seahawks D/ST,Seattle Seahawks,2017
+161,Team 4,WR,Tyler Lockett,Seattle Seahawks,2017
+181,Team 1,RB,C.J. Prosise,Seattle Seahawks,2017
+32,Team 4,RB,Jay Ajayi,Philadelphia Eagles,2017
+53,Team 6,QB,Carson Wentz,Philadelphia Eagles,2017
+83,Team 2,WR,Alshon Jeffery,Philadelphia Eagles,2017
+121,Team 9,TE,Zach Ertz,Philadelphia Eagles,2017
+138,Team 3,WR,Mike Wallace,Philadelphia Eagles,2017
+143,Team 12,RB,Darren Sproles,Philadelphia Eagles,2017
+179,Team 2,RB,Wendell Smallwood,Philadelphia Eagles,2017
+38,Team 2,QB,Matthew Stafford,Detroit Lions,2017
+63,Team 5,WR,Golden Tate,Detroit Lions,2017
+103,Team 3,RB,Ameer Abdullah,Detroit Lions,2017
+123,Team 7,RB,Theo Riddick,Detroit Lions,2017
+130,Team 5,RB,LeGarrette Blount,Detroit Lions,2017
+155,Team 2,WR,Marvin Jones Jr.,Detroit Lions,2017
+183,Team 5,K,Matt Prater,Detroit Lions,2017
+52,Team 11,RB,Leonard Fournette,Jacksonville Jaguars,2017
+128,Team 4,WR,Donte Moncrief,Jacksonville Jaguars,2017
+157,Team 1,QB,Blake Bortles,Jacksonville Jaguars,2017
+202,Team 5,WR,Marqise Lee,Jacksonville Jaguars,2017
+203,Team 2,D/ST,Jaguars D/ST,Jacksonville Jaguars,2017
+54,Team 10,RB,Kareem Hunt,Kansas City Chiefs,2017
+61,Team 1,TE,Travis Kelce,Kansas City Chiefs,2017
+99,Team 7,WR,Sammy Watkins,Kansas City Chiefs,2017
+102,Team 10,WR,Tyreek Hill,Kansas City Chiefs,2017
+146,Team 12,D/ST,Chiefs D/ST,Kansas City Chiefs,2017
+194,Team 12,RB,Charcandrick West,Kansas City Chiefs,2017
+56,Team 4,QB,Alex Smith,Washington Redskins,2017
+75,Team 7,TE,Jordan Reed,Washington Redskins,2017
+91,Team 10,WR,Jamison Crowder,Washington Redskins,2017
+107,Team 2,RB,Rob Kelley,Washington Redskins,2017
+184,Team 8,WR,Josh Doctson,Washington Redskins,2017
+186,Team 3,RB,Chris Thompson,Washington Redskins,2017
+198,Team 10,WR,Paul Richardson,Washington Redskins,2017
+57,Team 8,RB,Lamar Miller,Houston Texans,2017
+73,Team 9,WR,DeAndre Hopkins,Houston Texans,2017
+126,Team 10,D/ST,Texans D/ST,Houston Texans,2017
+145,Team 9,QB,Deshaun Watson,Houston Texans,2017
+58,Team 5,WR,Demaryius Thomas,Denver Broncos,2017
+88,Team 8,WR,Emmanuel Sanders,Denver Broncos,2017
+93,Team 11,RB,C.J. Anderson,Denver Broncos,2017
+142,Team 7,D/ST,Broncos D/ST,Denver Broncos,2017
+148,Team 11,RB,Jamaal Charles,Denver Broncos,2017
+64,Team 8,QB,Joe Flacco,Baltimore Ravens,2017
+68,Team 6,WR,Michael Crabtree,Baltimore Ravens,2017
+81,Team 8,RB,Danny Woodhead,Baltimore Ravens,2017
+108,Team 1,K,Justin Tucker,Baltimore Ravens,2017
+112,Team 8,RB,Terrance West,Baltimore Ravens,2017
+135,Team 5,WR,Jeremy Maclin,Baltimore Ravens,2017
+152,Team 4,WR,John Brown,Baltimore Ravens,2017
+71,Team 12,QB,Jay Cutler,Miami Dolphins,2017
+94,Team 7,RB,Frank Gore,Miami Dolphins,2017
+96,Team 9,WR,DeVante Parker,Miami Dolphins,2017
+160,Team 8,WR,Danny Amendola,Miami Dolphins,2017
+201,Team 8,D/ST,Dolphins D/ST,Miami Dolphins,2017
+106,Team 5,WR,Pierre Garcon,San Francisco 49ers,2017
+190,Team 7,QB,Colin Kaepernick,San Francisco 49ers,2017
+1,Team 10,RB,Todd Gurley II,Los Angeles Rams,2018
+44,Team 4,QB,Jared Goff,Los Angeles Rams,2018
+67,Team 5,WR,Brandin Cooks,Los Angeles Rams,2018
+110,Team 1,WR,Robert Woods,Los Angeles Rams,2018
+113,Team 3,D/ST,Rams D/ST,Los Angeles Rams,2018
+123,Team 9,WR,Cooper Kupp,Los Angeles Rams,2018
+152,Team 3,K,Greg Zuerlein,Los Angeles Rams,2018
+160,Team 11,RB,C.J. Anderson,Los Angeles Rams,2018
+2,Team 2,QB,Aaron Rodgers,Green Bay Packers,2018
+33,Team 11,WR,Davante Adams,Green Bay Packers,2018
+81,Team 11,TE,Jimmy Graham,Green Bay Packers,2018
+99,Team 9,RB,Jamaal Williams,Green Bay Packers,2018
+132,Team 12,WR,Randall Cobb,Green Bay Packers,2018
+142,Team 9,RB,Aaron Jones,Green Bay Packers,2018
+3,Team 9,RB,David Johnson,Arizona Cardinals,2018
+61,Team 12,WR,Larry Fitzgerald,Arizona Cardinals,2018
+115,Team 5,QB,Sam Bradford,Arizona Cardinals,2018
+156,Team 12,QB,Josh Rosen,Arizona Cardinals,2018
+4,Team 7,RB,Saquon Barkley,New York Giants,2018
+18,Team 6,WR,Odell Beckham Jr.,New York Giants,2018
+55,Team 6,QB,Eli Manning,New York Giants,2018
+86,Team 1,TE,Evan Engram,New York Giants,2018
+91,Team 5,WR,Sterling Shepard,New York Giants,2018
+5,Team 4,QB,Tom Brady,New England Patriots,2018
+29,Team 4,TE,Rob Gronkowski,New England Patriots,2018
+69,Team 7,WR,Chris Hogan,New England Patriots,2018
+72,Team 10,WR,Josh Gordon,New England Patriots,2018
+82,Team 8,RB,Rex Burkhead,New England Patriots,2018
+85,Team 12,WR,Julian Edelman,New England Patriots,2018
+108,Team 12,RB,James White,New England Patriots,2018
+116,Team 4,RB,Sony Michel,New England Patriots,2018
+151,Team 6,K,Stephen Gostkowski,New England Patriots,2018
+191,Team 2,RB,Jeremy Hill,New England Patriots,2018
+204,Team 12,D/ST,Patriots D/ST,New England Patriots,2018
+6,Team 5,RB,Ezekiel Elliott,Dallas Cowboys,2018
+58,Team 8,QB,Dak Prescott,Dallas Cowboys,2018
+59,Team 1,WR,Amari Cooper,Dallas Cowboys,2018
+137,Team 3,WR,Allen Hurns,Dallas Cowboys,2018
+170,Team 2,WR,Michael Gallup,Dallas Cowboys,2018
+194,Team 2,K,Brett Maher,Dallas Cowboys,2018
+7,Team 6,WR,Antonio Brown,Pittsburgh Steelers,2018
+9,Team 11,RB,Le'Veon Bell,Pittsburgh Steelers,2018
+21,Team 7,QB,Ben Roethlisberger,Pittsburgh Steelers,2018
+71,Team 2,WR,JuJu Smith-Schuster,Pittsburgh Steelers,2018
+155,Team 1,K,Chris Boswell,Pittsburgh Steelers,2018
+199,Team 6,TE,Vance McDonald,Pittsburgh Steelers,2018
+8,Team 3,RB,Alvin Kamara,New Orleans Saints,2018
+23,Team 2,WR,Michael Thomas,New Orleans Saints,2018
+26,Team 2,QB,Drew Brees,New Orleans Saints,2018
+70,Team 9,RB,Mark Ingram II,New Orleans Saints,2018
+136,Team 11,WR,Dez Bryant,New Orleans Saints,2018
+167,Team 2,D/ST,Saints D/ST,New Orleans Saints,2018
+182,Team 1,WR,Ted Ginn Jr.,New Orleans Saints,2018
+192,Team 10,WR,Cameron Meredith,New Orleans Saints,2018
+196,Team 7,K,Wil Lutz,New Orleans Saints,2018
+10,Team 8,WR,Julio Jones,Atlanta Falcons,2018
+22,Team 9,RB,Devonta Freeman,Atlanta Falcons,2018
+30,Team 5,QB,Matt Ryan,Atlanta Falcons,2018
+95,Team 2,RB,Tevin Coleman,Atlanta Falcons,2018
+157,Team 12,WR,Mohamed Sanu,Atlanta Falcons,2018
+164,Team 4,K,Matt Bryant,Atlanta Falcons,2018
+198,Team 5,WR,Calvin Ridley,Atlanta Falcons,2018
+11,Team 1,RB,Leonard Fournette,Jacksonville Jaguars,2018
+78,Team 5,RB,Carlos Hyde,Jacksonville Jaguars,2018
+97,Team 10,QB,Blake Bortles,Jacksonville Jaguars,2018
+107,Team 1,D/ST,Jaguars D/ST,Jacksonville Jaguars,2018
+150,Team 5,WR,Donte Moncrief,Jacksonville Jaguars,2018
+165,Team 7,WR,Keelan Cole,Jacksonville Jaguars,2018
+12,Team 12,QB,Russell Wilson,Seattle Seahawks,2018
+50,Team 2,WR,Doug Baldwin,Seattle Seahawks,2018
+92,Team 4,RB,Chris Carson,Seattle Seahawks,2018
+103,Team 6,RB,Rashaad Penny,Seattle Seahawks,2018
+178,Team 8,WR,Tyler Lockett,Seattle Seahawks,2018
+13,Team 12,RB,Kareem Hunt, FA,2018
+14,Team 1,RB,Christian McCaffrey,Carolina Panthers,2018
+17,Team 3,QB,Cam Newton,Carolina Panthers,2018
+80,Team 3,TE,Greg Olsen,Carolina Panthers,2018
+89,Team 3,WR,Devin Funchess,Carolina Panthers,2018
+171,Team 9,WR,DJ Moore,Carolina Panthers,2018
+197,Team 4,D/ST,Panthers D/ST,Carolina Panthers,2018
+15,Team 8,RB,Dalvin Cook,Minnesota Vikings,2018
+31,Team 6,QB,Kirk Cousins,Minnesota Vikings,2018
+37,Team 12,WR,Stefon Diggs,Minnesota Vikings,2018
+68,Team 4,WR,Adam Thielen,Minnesota Vikings,2018
+102,Team 5,TE,Kyle Rudolph,Minnesota Vikings,2018
+135,Team 8,D/ST,Vikings D/ST,Minnesota Vikings,2018
+16,Team 11,QB,Deshaun Watson,Houston Texans,2018
+19,Team 5,WR,DeAndre Hopkins,Houston Texans,2018
+66,Team 6,RB,Lamar Miller,Houston Texans,2018
+76,Team 7,WR,Demaryius Thomas,Houston Texans,2018
+105,Team 11,WR,Will Fuller V,Houston Texans,2018
+153,Team 11,D/ST,Texans D/ST,Houston Texans,2018
+20,Team 4,RB,Melvin Gordon,Los Angeles Chargers,2018
+24,Team 10,WR,Keenan Allen,Los Angeles Chargers,2018
+27,Team 9,QB,Philip Rivers,Los Angeles Chargers,2018
+163,Team 5,D/ST,Chargers D/ST,Los Angeles Chargers,2018
+184,Team 11,WR,Mike Williams,Los Angeles Chargers,2018
+185,Team 3,TE,Antonio Gates,Los Angeles Chargers,2018
+25,Team 10,RB,LeSean McCoy,Buffalo Bills,2018
+134,Team 1,QB,Josh Allen,Buffalo Bills,2018
+145,Team 10,TE,Charles Clay,Buffalo Bills,2018
+28,Team 7,QB,Matthew Stafford,Detroit Lions,2018
+75,Team 9,WR,Marvin Jones Jr.,Detroit Lions,2018
+138,Team 6,RB,Kerryon Johnson,Detroit Lions,2018
+162,Team 6,RB,Theo Riddick,Detroit Lions,2018
+169,Team 10,WR,Kenny Golladay,Detroit Lions,2018
+190,Team 9,D/ST,Lions D/ST,Detroit Lions,2018
+201,Team 11,K,Matt Prater,Detroit Lions,2018
+32,Team 3,WR,A.J. Green,Cincinnati Bengals,2018
+34,Team 8,RB,Joe Mixon,Cincinnati Bengals,2018
+56,Team 3,QB,Andy Dalton,Cincinnati Bengals,2018
+109,Team 12,TE,Tyler Eifert,Cincinnati Bengals,2018
+173,Team 4,WR,John Ross,Cincinnati Bengals,2018
+188,Team 4,RB,Giovani Bernard,Cincinnati Bengals,2018
+35,Team 1,TE,Travis Kelce,Kansas City Chiefs,2018
+43,Team 5,QB,Patrick Mahomes,Kansas City Chiefs,2018
+49,Team 10,WR,Tyreek Hill,Kansas City Chiefs,2018
+120,Team 10,WR,Sammy Watkins,Kansas City Chiefs,2018
+141,Team 7,WR,Kelvin Benjamin,Kansas City Chiefs,2018
+195,Team 9,K,Harrison Butker,Kansas City Chiefs,2018
+36,Team 12,QB,Alex Smith,Washington Redskins,2018
+74,Team 2,RB,Adrian Peterson,Washington Redskins,2018
+104,Team 3,RB,Chris Thompson,Washington Redskins,2018
+119,Team 2,TE,Jordan Reed,Washington Redskins,2018
+130,Team 8,WR,Jamison Crowder,Washington Redskins,2018
+149,Team 4,WR,Josh Doctson,Washington Redskins,2018
+154,Team 8,RB,Samaje Perine,Washington Redskins,2018
+172,Team 7,WR,Paul Richardson,Washington Redskins,2018
+38,Team 1,QB,Carson Wentz,Philadelphia Eagles,2018
+45,Team 7,TE,Zach Ertz,Philadelphia Eagles,2018
+51,Team 9,RB,Jay Ajayi,Philadelphia Eagles,2018
+54,Team 5,WR,Golden Tate,Philadelphia Eagles,2018
+83,Team 1,WR,Alshon Jeffery,Philadelphia Eagles,2018
+124,Team 7,D/ST,Eagles D/ST,Philadelphia Eagles,2018
+128,Team 3,QB,Nick Foles,Philadelphia Eagles,2018
+129,Team 11,WR,Nelson Agholor,Philadelphia Eagles,2018
+139,Team 5,WR,Mike Wallace,Philadelphia Eagles,2018
+147,Team 9,RB,Corey Clement,Philadelphia Eagles,2018
+174,Team 5,K,Jake Elliott,Philadelphia Eagles,2018
+39,Team 8,QB,Andrew Luck,Indianapolis Colts,2018
+53,Team 4,WR,T.Y. Hilton,Indianapolis Colts,2018
+90,Team 6,TE,Jack Doyle,Indianapolis Colts,2018
+131,Team 1,RB,Marlon Mack,Indianapolis Colts,2018
+177,Team 11,RB,Jordan Wilkins,Indianapolis Colts,2018
+40,Team 11,RB,Jordan Howard,Chicago Bears,2018
+63,Team 8,WR,Allen Robinson,Chicago Bears,2018
+73,Team 10,QB,Mitchell Trubisky,Chicago Bears,2018
+126,Team 5,RB,Tarik Cohen,Chicago Bears,2018
+140,Team 4,TE,Trey Burton,Chicago Bears,2018
+175,Team 6,D/ST,Bears D/ST,Chicago Bears,2018
+202,Team 8,WR,Anthony Miller,Chicago Bears,2018
+203,Team 1,QB,Chase Daniel,Chicago Bears,2018
+41,Team 3,WR,Mike Evans,Tampa Bay Buccaneers,2018
+93,Team 7,RB,Peyton Barber,Tampa Bay Buccaneers,2018
+94,Team 9,QB,Jameis Winston,Tampa Bay Buccaneers,2018
+146,Team 2,RB,Ronald Jones,Tampa Bay Buccaneers,2018
+187,Team 5,WR,Chris Godwin,Tampa Bay Buccaneers,2018
+193,Team 10,WR,DeSean Jackson,Tampa Bay Buccaneers,2018
+42,Team 6,RB,Alex Collins,Baltimore Ravens,2018
+88,Team 11,WR,Michael Crabtree,Baltimore Ravens,2018
+125,Team 4,QB,Joe Flacco,Baltimore Ravens,2018
+144,Team 10,D/ST,Ravens D/ST,Baltimore Ravens,2018
+159,Team 8,K,Justin Tucker,Baltimore Ravens,2018
+176,Team 3,RB,Ty Montgomery,Baltimore Ravens,2018
+186,Team 6,RB,Javorius Allen,Baltimore Ravens,2018
+200,Team 3,WR,John Brown,Baltimore Ravens,2018
+46,Team 9,QB,Jimmy Garoppolo,San Francisco 49ers,2018
+65,Team 3,RB,Alfred Morris,San Francisco 49ers,2018
+79,Team 6,WR,Marquise Goodwin,San Francisco 49ers,2018
+100,Team 7,RB,Matt Breida,San Francisco 49ers,2018
+122,Team 2,WR,Pierre Garcon,San Francisco 49ers,2018
+168,Team 10,K,Robbie Gould,San Francisco 49ers,2018
+47,Team 2,RB,Royce Freeman,Denver Broncos,2018
+87,Team 8,WR,Emmanuel Sanders,Denver Broncos,2018
+112,Team 11,QB,Case Keenum,Denver Broncos,2018
+180,Team 12,RB,Devontae Booker,Denver Broncos,2018
+48,Team 10,QB,Marcus Mariota,Tennessee Titans,2018
+64,Team 11,RB,Derrick Henry,Tennessee Titans,2018
+77,Team 4,RB,Dion Lewis,Tennessee Titans,2018
+101,Team 4,WR,Corey Davis,Tennessee Titans,2018
+106,Team 8,TE,Delanie Walker,Tennessee Titans,2018
+181,Team 12,K,Ryan Succop,Tennessee Titans,2018
+52,Team 7,WR,Jarvis Landry,Cleveland Browns,2018
+96,Team 10,RB,Duke Johnson Jr.,Cleveland Browns,2018
+118,Team 9,TE,David Njoku,Cleveland Browns,2018
+121,Team 10,QB,Tyrod Taylor,Cleveland Browns,2018
+143,Team 2,QB,Baker Mayfield,Cleveland Browns,2018
+161,Team 3,RB,Nick Chubb,Cleveland Browns,2018
+57,Team 11,RB,Kenyan Drake,Miami Dolphins,2018
+111,Team 8,QB,Ryan Tannehill,Miami Dolphins,2018
+133,Team 12,WR,Kenny Stills,Miami Dolphins,2018
+148,Team 7,RB,Frank Gore,Miami Dolphins,2018
+158,Team 1,WR,DeVante Parker,Miami Dolphins,2018
+183,Team 8,WR,Danny Amendola,Miami Dolphins,2018
+60,Team 12,RB,Marshawn Lynch,Oakland Raiders,2018
+62,Team 1,QB,Derek Carr,Oakland Raiders,2018
+127,Team 6,WR,Jordy Nelson,Oakland Raiders,2018
+179,Team 1,QB,Nathan Peterman,Oakland Raiders,2018
+84,Team 12,RB,Isaiah Crowell,New York Jets,2018
+98,Team 2,RB,Bilal Powell,New York Jets,2018
+114,Team 6,WR,Robby Anderson,New York Jets,2018
+117,Team 7,QB,Sam Darnold,New York Jets,2018
+166,Team 9,WR,Quincy Enunwa,New York Jets,2018
+189,Team 7,WR,Rishard Matthews,New York Jets,2018
+1,Team 12,QB,Patrick Mahomes,Kansas City Chiefs,2019
+16,Team 1,TE,Travis Kelce,Kansas City Chiefs,2019
+28,Team 9,WR,Tyreek Hill,Kansas City Chiefs,2019
+57,Team 1,RB,Damien Williams,Kansas City Chiefs,2019
+102,Team 5,WR,Sammy Watkins,Kansas City Chiefs,2019
+117,Team 9,RB,LeSean McCoy,Kansas City Chiefs,2019
+153,Team 1,K,Harrison Butker,Kansas City Chiefs,2019
+180,Team 3,RB,Darwin Thompson,Kansas City Chiefs,2019
+2,Team 2,RB,Saquon Barkley,New York Giants,2019
+78,Team 5,TE,Evan Engram,New York Giants,2019
+90,Team 7,WR,Sterling Shepard,New York Giants,2019
+139,Team 5,WR,Golden Tate,New York Giants,2019
+165,Team 9,QB,Eli Manning,New York Giants,2019
+177,Team 1,QB,Daniel Jones,New York Giants,2019
+3,Team 11,QB,Aaron Rodgers,Green Bay Packers,2019
+22,Team 11,WR,Davante Adams,Green Bay Packers,2019
+41,Team 4,RB,Aaron Jones,Green Bay Packers,2019
+128,Team 4,WR,Marquez Valdes-Scantling,Green Bay Packers,2019
+159,Team 8,WR,Geronimo Allison,Green Bay Packers,2019
+176,Team 4,K,Mason Crosby,Green Bay Packers,2019
+181,Team 3,TE,Jimmy Graham,Green Bay Packers,2019
+4,Team 9,QB,Deshaun Watson,Houston Texans,2019
+8,Team 4,WR,DeAndre Hopkins,Houston Texans,2019
+94,Team 11,RB,Duke Johnson,Houston Texans,2019
+116,Team 10,K,Ka'imi Fairbairn,Houston Texans,2019
+132,Team 3,WR,Will Fuller V,Houston Texans,2019
+142,Team 11,RB,Carlos Hyde,Houston Texans,2019
+145,Team 12,WR,Keke Coutee,Houston Texans,2019
+5,Team 10,RB,Alvin Kamara,New Orleans Saints,2019
+14,Team 6,QB,Drew Brees,New Orleans Saints,2019
+23,Team 2,WR,Michael Thomas,New Orleans Saints,2019
+85,Team 3,TE,Jared Cook,New Orleans Saints,2019
+119,Team 2,RB,Latavius Murray,New Orleans Saints,2019
+144,Team 12,D/ST,Saints D/ST,New Orleans Saints,2019
+162,Team 7,K,Wil Lutz,New Orleans Saints,2019
+6,Team 5,RB,Ezekiel Elliott,Dallas Cowboys,2019
+33,Team 1,QB,Dak Prescott,Dallas Cowboys,2019
+56,Team 4,WR,Amari Cooper,Dallas Cowboys,2019
+122,Team 2,WR,Michael Gallup,Dallas Cowboys,2019
+149,Team 10,RB,Tony Pollard,Dallas Cowboys,2019
+170,Team 2,D/ST,Cowboys D/ST,Dallas Cowboys,2019
+191,Team 2,K,Brett Maher,Dallas Cowboys,2019
+7,Team 7,RB,Christian McCaffrey,Carolina Panthers,2019
+19,Team 5,QB,Cam Newton,Carolina Panthers,2019
+74,Team 2,WR,DJ Moore,Carolina Panthers,2019
+124,Team 9,WR,Curtis Samuel,Carolina Panthers,2019
+126,Team 5,WR,Donte Moncrief,Carolina Panthers,2019
+9,Team 1,RB,David Johnson,Arizona Cardinals,2019
+29,Team 10,QB,Kyler Murray,Arizona Cardinals,2019
+81,Team 1,RB,Kenyan Drake,Arizona Cardinals,2019
+111,Team 8,WR,Christian Kirk,Arizona Cardinals,2019
+114,Team 7,WR,Larry Fitzgerald,Arizona Cardinals,2019
+10,Team 8,RB,Le'Veon Bell,New York Jets,2019
+52,Team 9,QB,Sam Darnold,New York Jets,2019
+106,Team 8,WR,Robby Anderson,New York Jets,2019
+137,Team 4,WR,Jamison Crowder,New York Jets,2019
+192,Team 12,TE,Chris Herndon,New York Jets,2019
+11,Team 6,QB,Baker Mayfield,Cleveland Browns,2019
+24,Team 12,WR,Odell Beckham Jr.,Cleveland Browns,2019
+27,Team 11,RB,Nick Chubb,Cleveland Browns,2019
+88,Team 1,WR,Jarvis Landry,Cleveland Browns,2019
+107,Team 6,TE,David Njoku,Cleveland Browns,2019
+164,Team 10,RB,Kareem Hunt,Cleveland Browns,2019
+185,Team 4,D/ST,Browns D/ST,Cleveland Browns,2019
+12,Team 3,QB,Matt Ryan,Atlanta Falcons,2019
+30,Team 5,WR,Julio Jones,Atlanta Falcons,2019
+37,Team 3,RB,Devonta Freeman,Atlanta Falcons,2019
+89,Team 4,WR,Calvin Ridley,Atlanta Falcons,2019
+97,Team 12,TE,Austin Hooper,Atlanta Falcons,2019
+188,Team 10,RB,Ito Smith,Atlanta Falcons,2019
+13,Team 3,QB,Carson Wentz,Philadelphia Eagles,2019
+55,Team 7,TE,Zach Ertz,Philadelphia Eagles,2019
+72,Team 12,WR,Alshon Jeffery,Philadelphia Eagles,2019
+103,Team 7,RB,Miles Sanders,Philadelphia Eagles,2019
+136,Team 1,RB,Jordan Howard,Philadelphia Eagles,2019
+156,Team 3,WR,DeSean Jackson,Philadelphia Eagles,2019
+195,Team 11,K,Jake Elliott,Philadelphia Eagles,2019
+15,Team 8,QB,Jared Goff,Los Angeles Rams,2019
+25,Team 12,RB,Todd Gurley II,Los Angeles Rams,2019
+58,Team 8,WR,Brandin Cooks,Los Angeles Rams,2019
+66,Team 7,WR,Robert Woods,Los Angeles Rams,2019
+68,Team 10,WR,Cooper Kupp,Los Angeles Rams,2019
+108,Team 3,K,Greg Zuerlein,Los Angeles Rams,2019
+129,Team 1,RB,Darrell Henderson Jr.,Los Angeles Rams,2019
+133,Team 3,D/ST,Rams D/ST,Los Angeles Rams,2019
+17,Team 4,QB,Russell Wilson,Seattle Seahawks,2019
+45,Team 9,RB,Chris Carson,Seattle Seahawks,2019
+70,Team 11,WR,Tyler Lockett,Seattle Seahawks,2019
+84,Team 3,WR,Josh Gordon,Seattle Seahawks,2019
+110,Team 6,RB,Rashaad Penny,Seattle Seahawks,2019
+152,Team 4,WR,DK Metcalf,Seattle Seahawks,2019
+155,Team 6,TE,Greg Olsen,Seattle Seahawks,2019
+18,Team 7,QB,Tom Brady,New England Patriots,2019
+46,Team 11,RB,Sony Michel,New England Patriots,2019
+49,Team 12,WR,Julian Edelman,New England Patriots,2019
+80,Team 4,RB,James White,New England Patriots,2019
+134,Team 6,WR,Mohamed Sanu Sr.,New England Patriots,2019
+138,Team 7,D/ST,Patriots D/ST,New England Patriots,2019
+168,Team 12,K,Stephen Gostkowski,New England Patriots,2019
+190,Team 11,RB,Damien Harris,New England Patriots,2019
+20,Team 10,QB,Ben Roethlisberger,Pittsburgh Steelers,2019
+21,Team 9,RB,James Conner,Pittsburgh Steelers,2019
+31,Team 7,WR,JuJu Smith-Schuster,Pittsburgh Steelers,2019
+113,Team 4,TE,Vance McDonald,Pittsburgh Steelers,2019
+141,Team 9,RB,Jaylen Samuels,Pittsburgh Steelers,2019
+146,Team 2,WR,James Washington,Pittsburgh Steelers,2019
+26,Team 2,QB,Jameis Winston,Tampa Bay Buccaneers,2019
+36,Team 3,WR,Mike Evans,Tampa Bay Buccaneers,2019
+71,Team 2,WR,Chris Godwin,Tampa Bay Buccaneers,2019
+93,Team 9,TE,O.J. Howard,Tampa Bay Buccaneers,2019
+135,Team 8,RB,Peyton Barber,Tampa Bay Buccaneers,2019
+163,Team 5,RB,Ronald Jones II,Tampa Bay Buccaneers,2019
+32,Team 4,RB,Dalvin Cook,Minnesota Vikings,2019
+40,Team 1,WR,Adam Thielen,Minnesota Vikings,2019
+50,Team 2,QB,Kirk Cousins,Minnesota Vikings,2019
+59,Team 6,WR,Stefon Diggs,Minnesota Vikings,2019
+154,Team 8,D/ST,Vikings D/ST,Minnesota Vikings,2019
+199,Team 7,TE,Kyle Rudolph,Minnesota Vikings,2019
+34,Team 8,WR,Antonio Brown, FA,2019
+174,Team 5,K,Matt Bryant, FA,2019
+194,Team 2,QB,Mark Sanchez, FA,2019
+35,Team 6,RB,Joe Mixon,Cincinnati Bengals,2019
+76,Team 9,WR,Tyler Boyd,Cincinnati Bengals,2019
+83,Team 6,WR,A.J. Green,Cincinnati Bengals,2019
+105,Team 1,QB,Andy Dalton,Cincinnati Bengals,2019
+157,Team 3,RB,Giovani Bernard,Cincinnati Bengals,2019
+38,Team 6,RB,Leonard Fournette,Jacksonville Jaguars,2019
+109,Team 3,WR,Dede Westbrook,Jacksonville Jaguars,2019
+115,Team 5,D/ST,Jaguars D/ST,Jacksonville Jaguars,2019
+125,Team 10,QB,Nick Foles,Jacksonville Jaguars,2019
+179,Team 6,RB,Ryquell Armstead,Jacksonville Jaguars,2019
+39,Team 8,QB,Philip Rivers,Los Angeles Chargers,2019
+53,Team 10,WR,Keenan Allen,Los Angeles Chargers,2019
+62,Team 6,WR,Mike Williams,Los Angeles Chargers,2019
+75,Team 11,RB,Austin Ekeler,Los Angeles Chargers,2019
+82,Team 8,RB,Melvin Gordon,Los Angeles Chargers,2019
+95,Team 2,TE,Hunter Henry,Los Angeles Chargers,2019
+166,Team 11,D/ST,Chargers D/ST,Los Angeles Chargers,2019
+172,Team 9,RB,Justin Jackson,Los Angeles Chargers,2019
+196,Team 9,K,Michael Badgley,Los Angeles Chargers,2019
+42,Team 7,QB,Mitchell Trubisky,Chicago Bears,2019
+63,Team 8,RB,David Montgomery,Chicago Bears,2019
+73,Team 12,RB,Tarik Cohen,Chicago Bears,2019
+86,Team 6,WR,Allen Robinson II,Chicago Bears,2019
+101,Team 10,D/ST,Bears D/ST,Chicago Bears,2019
+130,Team 8,TE,Trey Burton,Chicago Bears,2019
+178,Team 8,WR,Anthony Miller,Chicago Bears,2019
+43,Team 5,QB,Lamar Jackson,Baltimore Ravens,2019
+69,Team 9,RB,Mark Ingram II,Baltimore Ravens,2019
+131,Team 6,RB,Justice Hill,Baltimore Ravens,2019
+148,Team 9,TE,Mark Andrews,Baltimore Ravens,2019
+158,Team 6,K,Justin Tucker,Baltimore Ravens,2019
+160,Team 1,D/ST,Ravens D/ST,Baltimore Ravens,2019
+44,Team 10,TE,George Kittle,San Francisco 49ers,2019
+64,Team 1,QB,Jimmy Garoppolo,San Francisco 49ers,2019
+92,Team 10,RB,Tevin Coleman,San Francisco 49ers,2019
+96,Team 12,WR,Emmanuel Sanders,San Francisco 49ers,2019
+98,Team 2,RB,Matt Breida,San Francisco 49ers,2019
+127,Team 7,WR,Dante Pettis,San Francisco 49ers,2019
+201,Team 1,WR,Marquise Goodwin,San Francisco 49ers,2019
+202,Team 8,K,Robbie Gould,San Francisco 49ers,2019
+47,Team 2,RB,Josh Jacobs,Oakland Raiders,2019
+48,Team 12,QB,Derek Carr,Oakland Raiders,2019
+150,Team 5,RB,Jalen Richard,Oakland Raiders,2019
+151,Team 7,WR,Tyrell Williams,Oakland Raiders,2019
+51,Team 11,QB,Matthew Stafford,Detroit Lions,2019
+54,Team 5,RB,Kerryon Johnson,Detroit Lions,2019
+61,Team 3,WR,Kenny Golladay,Detroit Lions,2019
+118,Team 11,WR,Marvin Jones Jr.,Detroit Lions,2019
+171,Team 11,RB,C.J. Anderson,Detroit Lions,2019
+200,Team 4,TE,T.J. Hockenson,Detroit Lions,2019
+60,Team 3,RB,Derrick Henry,Tennessee Titans,2019
+99,Team 11,QB,Marcus Mariota,Tennessee Titans,2019
+112,Team 1,WR,Corey Davis,Tennessee Titans,2019
+123,Team 11,TE,Delanie Walker,Tennessee Titans,2019
+169,Team 12,RB,Dion Lewis,Tennessee Titans,2019
+183,Team 8,WR,Adam Humphries,Tennessee Titans,2019
+65,Team 4,QB,Josh Allen,Buffalo Bills,2019
+104,Team 4,RB,Devin Singletary,Buffalo Bills,2019
+167,Team 2,RB,Frank Gore,Buffalo Bills,2019
+187,Team 5,WR,John Brown,Buffalo Bills,2019
+203,Team 6,D/ST,Bills D/ST,Buffalo Bills,2019
+204,Team 3,WR,Cole Beasley,Buffalo Bills,2019
+67,Team 5,WR,T.Y. Hilton,Indianapolis Colts,2019
+79,Team 7,RB,Marlon Mack,Indianapolis Colts,2019
+87,Team 8,QB,Jacoby Brissett,Indianapolis Colts,2019
+120,Team 12,RB,Nyheim Hines,Indianapolis Colts,2019
+184,Team 1,TE,Eric Ebron,Indianapolis Colts,2019
+198,Team 5,TE,Jack Doyle,Indianapolis Colts,2019
+77,Team 10,RB,Phillip Lindsay,Denver Broncos,2019
+100,Team 9,QB,Joe Flacco,Denver Broncos,2019
+121,Team 12,RB,Royce Freeman,Denver Broncos,2019
+140,Team 10,WR,Courtland Sutton,Denver Broncos,2019
+175,Team 7,RB,Theo Riddick,Denver Broncos,2019
+189,Team 9,D/ST,Broncos D/ST,Denver Broncos,2019
+91,Team 5,RB,Derrius Guice,Washington ,2019
+143,Team 2,QB,Case Keenum,Washington ,2019
+147,Team 11,TE,Jordan Reed,Washington ,2019
+173,Team 10,RB,Chris Thompson,Washington ,2019
+182,Team 6,RB,Adrian Peterson,Washington ,2019
+197,Team 10,WR,Paul Richardson Jr.,Washington ,2019
+161,Team 4,RB,Kalen Ballage,Miami Dolphins,2019
+186,Team 7,QB,Josh Rosen,Miami Dolphins,2019
+193,Team 12,QB,Ryan Fitzpatrick,Miami Dolphins,2019
+1,Team 8,QB,Patrick Mahomes,Kansas City Chiefs,2020
+7,Team 1,TE,Travis Kelce,Kansas City Chiefs,2020
+19,Team 5,RB,Clyde Edwards-Helaire,Kansas City Chiefs,2020
+34,Team 3,WR,Tyreek Hill,Kansas City Chiefs,2020
+47,Team 12,RB,Le'Veon Bell,Kansas City Chiefs,2020
+136,Team 10,K,Harrison Butker,Kansas City Chiefs,2020
+140,Team 2,WR,Mecole Hardman,Kansas City Chiefs,2020
+170,Team 12,D/ST,Chiefs D/ST,Kansas City Chiefs,2020
+182,Team 6,WR,Sammy Watkins,Kansas City Chiefs,2020
+2,Team 12,QB,Lamar Jackson,Baltimore Ravens,2020
+58,Team 3,TE,Mark Andrews,Baltimore Ravens,2020
+100,Team 4,WR,Marquise Brown,Baltimore Ravens,2020
+102,Team 5,RB,J.K. Dobbins,Baltimore Ravens,2020
+114,Team 1,K,Justin Tucker,Baltimore Ravens,2020
+151,Team 1,D/ST,Ravens D/ST,Baltimore Ravens,2020
+3,Team 11,RB,Saquon Barkley,New York Giants,2020
+25,Team 8,QB,Daniel Jones,New York Giants,2020
+61,Team 7,TE,Evan Engram,New York Giants,2020
+109,Team 7,WR,Sterling Shepard,New York Giants,2020
+138,Team 1,WR,Darius Slayton,New York Giants,2020
+4,Team 4,RB,Christian McCaffrey,Carolina Panthers,2020
+52,Team 4,WR,DJ Moore,Carolina Panthers,2020
+111,Team 3,QB,Teddy Bridgewater,Carolina Panthers,2020
+154,Team 3,WR,Robby Anderson,Carolina Panthers,2020
+159,Team 3,WR,Curtis Samuel,Carolina Panthers,2020
+5,Team 2,QB,Kyler Murray,Arizona Cardinals,2020
+30,Team 5,WR,DeAndre Hopkins,Arizona Cardinals,2020
+37,Team 7,RB,Kenyan Drake,Arizona Cardinals,2020
+113,Team 9,WR,Christian Kirk,Arizona Cardinals,2020
+169,Team 8,RB,Chase Edmonds,Arizona Cardinals,2020
+191,Team 12,WR,Larry Fitzgerald,Arizona Cardinals,2020
+6,Team 5,QB,Deshaun Watson,Houston Texans,2020
+53,Team 2,RB,David Johnson,Houston Texans,2020
+104,Team 9,WR,Will Fuller V,Houston Texans,2020
+122,Team 12,WR,Brandin Cooks,Houston Texans,2020
+188,Team 2,K,Ka'imi Fairbairn,Houston Texans,2020
+8,Team 9,RB,Ezekiel Elliott,Dallas Cowboys,2020
+12,Team 7,QB,Dak Prescott,Dallas Cowboys,2020
+44,Team 2,WR,Amari Cooper,Dallas Cowboys,2020
+99,Team 11,WR,Michael Gallup,Dallas Cowboys,2020
+120,Team 8,RB,Tony Pollard,Dallas Cowboys,2020
+125,Team 2,WR,CeeDee Lamb,Dallas Cowboys,2020
+158,Team 6,K,Greg Zuerlein,Dallas Cowboys,2020
+9,Team 10,WR,Michael Thomas,New Orleans Saints,2020
+14,Team 6,QB,Drew Brees,New Orleans Saints,2020
+21,Team 4,RB,Alvin Kamara,New Orleans Saints,2020
+119,Team 12,RB,Latavius Murray,New Orleans Saints,2020
+126,Team 5,WR,Emmanuel Sanders,New Orleans Saints,2020
+156,Team 7,K,Wil Lutz,New Orleans Saints,2020
+171,Team 11,D/ST,Saints D/ST,New Orleans Saints,2020
+179,Team 6,QB,Jameis Winston,New Orleans Saints,2020
+10,Team 3,RB,Dalvin Cook,Minnesota Vikings,2020
+43,Team 5,WR,Adam Thielen,Minnesota Vikings,2020
+56,Team 9,QB,Kirk Cousins,Minnesota Vikings,2020
+147,Team 11,RB,Alexander Mattison,Minnesota Vikings,2020
+184,Team 10,WR,Justin Jefferson,Minnesota Vikings,2020
+185,Team 9,D/ST,Vikings D/ST,Minnesota Vikings,2020
+194,Team 12,K,Dan Bailey,Minnesota Vikings,2020
+11,Team 6,QB,Russell Wilson,Seattle Seahawks,2020
+41,Team 9,RB,Chris Carson,Seattle Seahawks,2020
+65,Team 9,WR,Tyler Lockett,Seattle Seahawks,2020
+84,Team 7,WR,DK Metcalf,Seattle Seahawks,2020
+197,Team 2,D/ST,Seahawks D/ST,Seattle Seahawks,2020
+13,Team 7,QB,Matt Ryan,Atlanta Falcons,2020
+20,Team 2,WR,Julio Jones,Atlanta Falcons,2020
+48,Team 8,WR,Calvin Ridley,Atlanta Falcons,2020
+54,Team 5,RB,Todd Gurley II,Atlanta Falcons,2020
+124,Team 4,TE,Hayden Hurst,Atlanta Falcons,2020
+15,Team 3,QB,Carson Wentz,Indianapolis Colts,2020
+49,Team 8,RB,Jonathan Taylor,Indianapolis Colts,2020
+71,Team 12,WR,T.Y. Hilton,Indianapolis Colts,2020
+74,Team 12,QB,Philip Rivers,Indianapolis Colts,2020
+110,Team 6,RB,Marlon Mack,Indianapolis Colts,2020
+164,Team 2,TE,Jack Doyle,Indianapolis Colts,2020
+181,Team 7,RB,Nyheim Hines,Indianapolis Colts,2020
+202,Team 3,D/ST,Colts D/ST,Indianapolis Colts,2020
+16,Team 10,QB,Tom Brady,Tampa Bay Buccaneers,2020
+36,Team 7,WR,Chris Godwin,Tampa Bay Buccaneers,2020
+40,Team 10,WR,Mike Evans,Tampa Bay Buccaneers,2020
+75,Team 11,RB,Ronald Jones II,Tampa Bay Buccaneers,2020
+91,Team 5,TE,Rob Gronkowski,Tampa Bay Buccaneers,2020
+118,Team 11,RB,Leonard Fournette,Tampa Bay Buccaneers,2020
+168,Team 8,RB,Ke'Shawn Vaughn,Tampa Bay Buccaneers,2020
+17,Team 9,WR,Davante Adams,Green Bay Packers,2020
+18,Team 1,QB,Aaron Rodgers,Green Bay Packers,2020
+35,Team 6,RB,Aaron Jones,Green Bay Packers,2020
+165,Team 4,WR,Allen Lazard,Green Bay Packers,2020
+199,Team 1,RB,AJ Dillon,Green Bay Packers,2020
+203,Team 6,RB,Jamaal Williams,Green Bay Packers,2020
+22,Team 11,TE,George Kittle,San Francisco 49ers,2020
+64,Team 10,QB,Jimmy Garoppolo,San Francisco 49ers,2020
+83,Team 6,RB,Raheem Mostert,San Francisco 49ers,2020
+115,Team 5,D/ST,49ers D/ST,San Francisco 49ers,2020
+121,Team 8,WR,Deebo Samuel,San Francisco 49ers,2020
+148,Team 4,RB,Tevin Coleman,San Francisco 49ers,2020
+183,Team 3,K,Robbie Gould,San Francisco 49ers,2020
+23,Team 12,RB,Nick Chubb,Cleveland Browns,2020
+50,Team 12,WR,Jarvis Landry,Cleveland Browns,2020
+51,Team 11,QB,Baker Mayfield,Cleveland Browns,2020
+55,Team 1,WR,Odell Beckham Jr.,Cleveland Browns,2020
+82,Team 3,RB,Kareem Hunt,Cleveland Browns,2020
+143,Team 12,TE,Austin Hooper,Cleveland Browns,2020
+24,Team 8,RB,Josh Jacobs,Las Vegas Raiders,2020
+80,Team 9,QB,Derek Carr,Las Vegas Raiders,2020
+88,Team 10,TE,Darren Waller,Las Vegas Raiders,2020
+139,Team 5,WR,Henry Ruggs III,Las Vegas Raiders,2020
+26,Team 12,QB,Jared Goff,Detroit Lions,2020
+38,Team 6,WR,Kenny Golladay,Detroit Lions,2020
+92,Team 2,RB,D'Andre Swift,Detroit Lions,2020
+105,Team 10,RB,Kerryon Johnson,Detroit Lions,2020
+106,Team 3,WR,Marvin Jones Jr.,Detroit Lions,2020
+144,Team 8,TE,T.J. Hockenson,Detroit Lions,2020
+167,Team 12,RB,Adrian Peterson,Detroit Lions,2020
+174,Team 5,K,Matt Prater,Detroit Lions,2020
+27,Team 11,QB,Josh Allen,Buffalo Bills,2020
+72,Team 8,RB,Devin Singletary,Buffalo Bills,2020
+86,Team 6,WR,Stefon Diggs,Buffalo Bills,2020
+129,Team 10,D/ST,Bills D/ST,Buffalo Bills,2020
+142,Team 11,RB,Zack Moss,Buffalo Bills,2020
+152,Team 9,WR,John Brown,Buffalo Bills,2020
+28,Team 4,QB,Matthew Stafford,Los Angeles Rams,2020
+69,Team 4,WR,Robert Woods,Los Angeles Rams,2020
+70,Team 11,WR,Cooper Kupp,Los Angeles Rams,2020
+79,Team 1,TE,Tyler Higbee,Los Angeles Rams,2020
+93,Team 4,RB,Cam Akers,Los Angeles Rams,2020
+116,Team 2,RB,Darrell Henderson Jr.,Los Angeles Rams,2020
+190,Team 11,K,Matt Gay,Los Angeles Rams,2020
+29,Team 2,RB,Derrick Henry,Tennessee Titans,2020
+60,Team 7,WR,A.J. Brown,Tennessee Titans,2020
+67,Team 5,QB,Ryan Tannehill,Tennessee Titans,2020
+161,Team 9,TE,Jonnu Smith,Tennessee Titans,2020
+31,Team 1,RB,Austin Ekeler,Los Angeles Chargers,2020
+81,Team 10,WR,Keenan Allen,Los Angeles Chargers,2020
+98,Team 12,TE,Hunter Henry,Los Angeles Chargers,2020
+137,Team 9,QB,Tyrod Taylor,Los Angeles Chargers,2020
+153,Team 10,QB,Justin Herbert,Los Angeles Chargers,2020
+162,Team 1,RB,Justin Jackson,Los Angeles Chargers,2020
+177,Team 10,WR,Mike Williams,Los Angeles Chargers,2020
+32,Team 9,QB,Ben Roethlisberger,Pittsburgh Steelers,2020
+45,Team 4,WR,JuJu Smith-Schuster,Pittsburgh Steelers,2020
+62,Team 6,RB,James Conner,Pittsburgh Steelers,2020
+97,Team 8,WR,Diontae Johnson,Pittsburgh Steelers,2020
+108,Team 7,D/ST,Steelers D/ST,Pittsburgh Steelers,2020
+112,Team 10,QB,Dwayne Haskins Jr.,Pittsburgh Steelers,2020
+186,Team 1,RB,Benny Snell Jr.,Pittsburgh Steelers,2020
+198,Team 5,WR,Chase Claypool,Pittsburgh Steelers,2020
+200,Team 9,K,Chris Boswell,Pittsburgh Steelers,2020
+33,Team 10,RB,Joe Mixon,Cincinnati Bengals,2020
+63,Team 3,QB,Joe Burrow,Cincinnati Bengals,2020
+87,Team 3,WR,A.J. Green,Cincinnati Bengals,2020
+96,Team 8,WR,Tyler Boyd,Cincinnati Bengals,2020
+39,Team 3,RB,Miles Sanders,Philadelphia Eagles,2020
+59,Team 6,TE,Zach Ertz,Philadelphia Eagles,2020
+127,Team 1,RB,Jordan Howard,Philadelphia Eagles,2020
+155,Team 6,TE,Dallas Goedert,Philadelphia Eagles,2020
+163,Team 5,RB,Boston Scott,Philadelphia Eagles,2020
+173,Team 2,QB,Jalen Hurts,Philadelphia Eagles,2020
+193,Team 8,K,Jake Elliott,Philadelphia Eagles,2020
+42,Team 1,QB,Cam Newton,New England Patriots,2020
+107,Team 6,WR,Julian Edelman,New England Patriots,2020
+134,Team 6,D/ST,Patriots D/ST,New England Patriots,2020
+135,Team 3,RB,James White,New England Patriots,2020
+145,Team 8,RB,Damien Harris,New England Patriots,2020
+157,Team 7,RB,Sony Michel,New England Patriots,2020
+175,Team 1,QB,Jarrett Stidham,New England Patriots,2020
+187,Team 5,WR,N'Keal Harry,New England Patriots,2020
+46,Team 11,WR,Allen Robinson II,Chicago Bears,2020
+85,Team 7,RB,Tarik Cohen,Chicago Bears,2020
+103,Team 1,RB,David Montgomery,Chicago Bears,2020
+123,Team 11,QB,Nick Foles,Chicago Bears,2020
+166,Team 11,WR,Anthony Miller,Chicago Bears,2020
+192,Team 8,D/ST,Bears D/ST,Chicago Bears,2020
+195,Team 11,QB,Mitchell Trubisky,Chicago Bears,2020
+57,Team 10,RB,Melvin Gordon III,Denver Broncos,2020
+73,Team 8,TE,Noah Fant,Denver Broncos,2020
+76,Team 4,QB,Drew Lock,Denver Broncos,2020
+77,Team 2,WR,Courtland Sutton,Denver Broncos,2020
+95,Team 12,RB,Phillip Lindsay,Denver Broncos,2020
+141,Team 4,WR,Jerry Jeudy,Denver Broncos,2020
+196,Team 4,D/ST,Broncos D/ST,Denver Broncos,2020
+66,Team 1,WR,DeVante Parker,Miami Dolphins,2020
+117,Team 4,QB,Tua Tagovailoa,Miami Dolphins,2020
+131,Team 6,RB,Matt Breida,Miami Dolphins,2020
+132,Team 7,WR,Preston Williams,Miami Dolphins,2020
+133,Team 7,QB,Ryan Fitzpatrick,Miami Dolphins,2020
+150,Team 5,TE,Mike Gesicki,Miami Dolphins,2020
+68,Team 2,QB,Gardner Minshew II,Jacksonville Jaguars,2020
+94,Team 11,WR,DJ Chark Jr.,Jacksonville Jaguars,2020
+128,Team 9,RB,Ryquell Armstead,Jacksonville Jaguars,2020
+176,Team 9,RB,Devine Ozigbo,Jacksonville Jaguars,2020
+78,Team 5,WR,Terry McLaurin,Washington ,2020
+178,Team 3,RB,Antonio Gibson,Washington ,2020
+201,Team 10,WR,Steven Sims Jr.,Washington ,2020
+89,Team 9,RB,Mark Ingram II, FA,2020
+101,Team 2,TE,Jared Cook, FA,2020
+146,Team 12,WR,Golden Tate, FA,2020
+149,Team 2,WR,DeSean Jackson, FA,2020
+160,Team 10,RB,Duke Johnson, FA,2020
+189,Team 4,K,Zane Gonzalez, FA,2020
+204,Team 7,QB,Colin Kaepernick, FA,2020
+90,Team 1,QB,Sam Darnold,New York Jets,2020
+130,Team 3,WR,Jamison Crowder,New York Jets,2020
+172,Team 4,TE,Chris Herndon,New York Jets,2020
+180,Team 7,WR,Breshad Perriman,New York Jets,2020
+1,Team 3,RB,Christian McCaffrey,Carolina Panthers,2021
+65,Team 5,WR,DJ Moore,Carolina Panthers,2021
+97,Team 3,WR,Robby Anderson,Carolina Panthers,2021
+112,Team 2,QB,Sam Darnold,Carolina Panthers,2021
+182,Team 1,RB,Chuba Hubbard,Carolina Panthers,2021
+2,Team 10,QB,Josh Allen,Buffalo Bills,2021
+21,Team 7,WR,Stefon Diggs,Buffalo Bills,2021
+124,Team 7,RB,Zack Moss,Buffalo Bills,2021
+129,Team 2,WR,Cole Beasley,Buffalo Bills,2021
+134,Team 1,K,Tyler Bass,Buffalo Bills,2021
+144,Team 3,RB,Devin Singletary,Buffalo Bills,2021
+159,Team 12,D/ST,Bills D/ST,Buffalo Bills,2021
+200,Team 5,WR,Gabriel Davis,Buffalo Bills,2021
+3,Team 11,QB,Patrick Mahomes,Kansas City Chiefs,2021
+14,Team 1,TE,Travis Kelce,Kansas City Chiefs,2021
+20,Team 4,WR,Tyreek Hill,Kansas City Chiefs,2021
+30,Team 6,RB,Clyde Edwards-Helaire,Kansas City Chiefs,2021
+123,Team 11,K,Harrison Butker,Kansas City Chiefs,2021
+153,Team 2,WR,Mecole Hardman,Kansas City Chiefs,2021
+4,Team 7,QB,Kyler Murray,Arizona Cardinals,2021
+27,Team 11,WR,DeAndre Hopkins,Arizona Cardinals,2021
+83,Team 1,RB,Chase Edmonds,Arizona Cardinals,2021
+105,Team 2,RB,James Conner,Arizona Cardinals,2021
+176,Team 5,K,Matt Prater,Arizona Cardinals,2021
+183,Team 12,WR,A.J. Green,Arizona Cardinals,2021
+5,Team 4,RB,Dalvin Cook,Minnesota Vikings,2021
+35,Team 1,QB,Kirk Cousins,Minnesota Vikings,2021
+41,Team 5,WR,Justin Jefferson,Minnesota Vikings,2021
+47,Team 10,WR,Adam Thielen,Minnesota Vikings,2021
+166,Team 11,RB,Alexander Mattison,Minnesota Vikings,2021
+196,Team 7,RB,Wayne Gallman,Minnesota Vikings,2021
+198,Team 6,D/ST,Vikings D/ST,Minnesota Vikings,2021
+6,Team 6,RB,Derrick Henry,Tennessee Titans,2021
+23,Team 10,QB,Ryan Tannehill,Tennessee Titans,2021
+36,Team 9,WR,A.J. Brown,Tennessee Titans,2021
+70,Team 11,WR,Julio Jones,Tennessee Titans,2021
+7,Team 8,QB,Lamar Jackson,Baltimore Ravens,2021
+56,Team 5,RB,Gus Edwards,Baltimore Ravens,2021
+69,Team 7,TE,Mark Andrews,Baltimore Ravens,2021
+139,Team 6,WR,Marquise Brown,Baltimore Ravens,2021
+150,Team 6,K,Justin Tucker,Baltimore Ravens,2021
+152,Team 5,D/ST,Ravens D/ST,Baltimore Ravens,2021
+204,Team 9,RB,Ty'Son Williams,Baltimore Ravens,2021
+8,Team 5,QB,Aaron Rodgers,Green Bay Packers,2021
+11,Team 1,WR,Davante Adams,Green Bay Packers,2021
+13,Team 9,RB,Aaron Jones,Green Bay Packers,2021
+91,Team 6,TE,Robert Tonyan,Green Bay Packers,2021
+111,Team 12,RB,AJ Dillon,Green Bay Packers,2021
+9,Team 2,QB,Dak Prescott,Dallas Cowboys,2021
+17,Team 5,RB,Ezekiel Elliott,Dallas Cowboys,2021
+40,Team 2,WR,CeeDee Lamb,Dallas Cowboys,2021
+54,Team 6,WR,Amari Cooper,Dallas Cowboys,2021
+121,Team 3,WR,Michael Gallup,Dallas Cowboys,2021
+160,Team 2,RB,Tony Pollard,Dallas Cowboys,2021
+197,Team 4,K,Greg Zuerlein,Dallas Cowboys,2021
+10,Team 12,RB,Alvin Kamara,New Orleans Saints,2021
+82,Team 12,QB,Jameis Winston,New Orleans Saints,2021
+109,Team 9,WR,Michael Thomas,New Orleans Saints,2021
+133,Team 9,WR,Marquez Callaway,New Orleans Saints,2021
+12,Team 9,QB,Russell Wilson,Seattle Seahawks,2021
+34,Team 12,WR,DK Metcalf,Seattle Seahawks,2021
+50,Team 10,RB,Chris Carson,Seattle Seahawks,2021
+53,Team 4,WR,Tyler Lockett,Seattle Seahawks,2021
+154,Team 12,K,Jason Myers,Seattle Seahawks,2021
+173,Team 4,TE,Gerald Everett,Seattle Seahawks,2021
+15,Team 12,QB,Tom Brady,Tampa Bay Buccaneers,2021
+58,Team 12,WR,Mike Evans,Tampa Bay Buccaneers,2021
+59,Team 1,WR,Chris Godwin,Tampa Bay Buccaneers,2021
+108,Team 9,RB,Ronald Jones II,Tampa Bay Buccaneers,2021
+110,Team 1,RB,Leonard Fournette,Tampa Bay Buccaneers,2021
+122,Team 10,D/ST,Buccaneers D/ST,Tampa Bay Buccaneers,2021
+177,Team 2,TE,Rob Gronkowski,Tampa Bay Buccaneers,2021
+194,Team 10,RB,Giovani Bernard,Tampa Bay Buccaneers,2021
+199,Team 8,K,Ryan Succop,Tampa Bay Buccaneers,2021
+16,Team 2,RB,Saquon Barkley,New York Giants,2021
+76,Team 7,WR,Kenny Golladay,New York Giants,2021
+80,Team 5,QB,Daniel Jones,New York Giants,2021
+174,Team 6,TE,Evan Engram,New York Giants,2021
+185,Team 5,WR,Sterling Shepard,New York Giants,2021
+195,Team 11,RB,Devontae Booker,New York Giants,2021
+18,Team 8,QB,Matthew Stafford,Los Angeles Rams,2021
+44,Team 4,WR,Robert Woods,Los Angeles Rams,2021
+67,Team 6,WR,Odell Beckham Jr.,Los Angeles Rams,2021
+72,Team 3,WR,Cooper Kupp,Los Angeles Rams,2021
+81,Team 2,RB,Darrell Henderson Jr.,Los Angeles Rams,2021
+93,Team 7,RB,Sony Michel,Los Angeles Rams,2021
+132,Team 9,TE,Tyler Higbee,Los Angeles Rams,2021
+155,Team 1,D/ST,Rams D/ST,Los Angeles Rams,2021
+181,Team 9,K,Matt Gay,Los Angeles Rams,2021
+19,Team 6,QB,Justin Herbert,Los Angeles Chargers,2021
+24,Team 3,RB,Austin Ekeler,Los Angeles Chargers,2021
+37,Team 9,WR,Keenan Allen,Los Angeles Chargers,2021
+131,Team 1,WR,Mike Williams,Los Angeles Chargers,2021
+158,Team 1,TE,Jared Cook,Los Angeles Chargers,2021
+180,Team 9,RB,Justin Jackson,Los Angeles Chargers,2021
+22,Team 11,RB,Jonathan Taylor,Indianapolis Colts,2021
+107,Team 1,QB,Carson Wentz,Indianapolis Colts,2021
+138,Team 8,RB,Nyheim Hines,Indianapolis Colts,2021
+164,Team 4,WR,Michael Pittman Jr.,Indianapolis Colts,2021
+178,Team 12,WR,Parris Campbell,Indianapolis Colts,2021
+193,Team 3,D/ST,Colts D/ST,Indianapolis Colts,2021
+25,Team 3,RB,Nick Chubb,Cleveland Browns,2021
+29,Team 4,QB,Baker Mayfield,Cleveland Browns,2021
+63,Team 12,RB,Kareem Hunt,Cleveland Browns,2021
+141,Team 7,WR,Jarvis Landry,Cleveland Browns,2021
+170,Team 10,TE,Austin Hooper,Cleveland Browns,2021
+188,Team 4,D/ST,Browns D/ST,Cleveland Browns,2021
+26,Team 10,RB,Najee Harris,Pittsburgh Steelers,2021
+62,Team 1,QB,Ben Roethlisberger,Pittsburgh Steelers,2021
+66,Team 8,WR,Diontae Johnson,Pittsburgh Steelers,2021
+87,Team 12,WR,JuJu Smith-Schuster,Pittsburgh Steelers,2021
+95,Team 10,WR,Chase Claypool,Pittsburgh Steelers,2021
+147,Team 11,D/ST,Steelers D/ST,Pittsburgh Steelers,2021
+28,Team 7,RB,Antonio Gibson,Washington Commanders,2021
+42,Team 8,WR,Terry McLaurin,Washington Commanders,2021
+77,Team 4,QB,Ryan Fitzpatrick,Washington Commanders,2021
+116,Team 4,TE,Logan Thomas,Washington Commanders,2021
+145,Team 3,WR,Curtis Samuel,Washington Commanders,2021
+146,Team 10,RB,J.D. McKissic,Washington Commanders,2021
+148,Team 7,D/ST,Commanders D/ST,Washington Commanders,2021
+31,Team 8,RB,Joe Mixon,Cincinnati Bengals,2021
+52,Team 7,QB,Joe Burrow,Cincinnati Bengals,2021
+74,Team 10,WR,Tee Higgins,Cincinnati Bengals,2021
+101,Team 4,WR,Tyler Boyd,Cincinnati Bengals,2021
+104,Team 5,WR,Ja'Marr Chase,Cincinnati Bengals,2021
+32,Team 5,WR,Calvin Ridley,Atlanta Falcons,2021
+60,Team 9,QB,Matt Ryan,Atlanta Falcons,2021
+61,Team 9,RB,Mike Davis,Atlanta Falcons,2021
+79,Team 8,TE,Kyle Pitts,Atlanta Falcons,2021
+167,Team 10,K,Younghoe Koo,Atlanta Falcons,2021
+191,Team 10,WR,Russell Gage,Atlanta Falcons,2021
+33,Team 2,TE,Darren Waller,Las Vegas Raiders,2021
+71,Team 10,RB,Josh Jacobs,Las Vegas Raiders,2021
+78,Team 6,QB,Derek Carr,Las Vegas Raiders,2021
+100,Team 7,RB,Kenyan Drake,Las Vegas Raiders,2021
+38,Team 1,RB,D'Andre Swift,Detroit Lions,2021
+96,Team 3,TE,T.J. Hockenson,Detroit Lions,2021
+113,Team 5,RB,Jamaal Williams,Detroit Lions,2021
+130,Team 12,QB,Jared Goff,Detroit Lions,2021
+39,Team 12,TE,George Kittle,San Francisco 49ers,2021
+73,Team 3,WR,Brandon Aiyuk,San Francisco 49ers,2021
+75,Team 11,RB,Raheem Mostert,San Francisco 49ers,2021
+92,Team 4,QB,Trey Lance,San Francisco 49ers,2021
+103,Team 8,RB,Trey Sermon,San Francisco 49ers,2021
+117,Team 7,WR,Deebo Samuel,San Francisco 49ers,2021
+127,Team 8,QB,Jimmy Garoppolo,San Francisco 49ers,2021
+156,Team 9,D/ST,49ers D/ST,San Francisco 49ers,2021
+43,Team 6,RB,James Robinson,Jacksonville Jaguars,2021
+49,Team 3,QB,Trevor Lawrence,Jacksonville Jaguars,2021
+88,Team 2,WR,Laviska Shenault Jr.,Jacksonville Jaguars,2021
+125,Team 4,WR,Marvin Jones Jr.,Jacksonville Jaguars,2021
+136,Team 2,WR,DJ Chark Jr.,Jacksonville Jaguars,2021
+45,Team 7,RB,Miles Sanders,Philadelphia Eagles,2021
+48,Team 3,QB,Jalen Hurts,Philadelphia Eagles,2021
+106,Team 12,WR,DeVonta Smith,Philadelphia Eagles,2021
+119,Team 10,TE,Dallas Goedert,Philadelphia Eagles,2021
+168,Team 3,WR,Jalen Reagor,Philadelphia Eagles,2021
+187,Team 6,QB,Gardner Minshew,Philadelphia Eagles,2021
+46,Team 11,RB,David Montgomery,Chicago Bears,2021
+57,Team 2,WR,Allen Robinson II,Chicago Bears,2021
+64,Team 2,QB,Justin Fields,Chicago Bears,2021
+143,Team 10,QB,Andy Dalton,Chicago Bears,2021
+161,Team 5,WR,Darnell Mooney,Chicago Bears,2021
+190,Team 11,RB,Damien Williams,Chicago Bears,2021
+51,Team 11,QB,Tua Tagovailoa,Miami Dolphins,2021
+68,Team 4,RB,Myles Gaskin,Miami Dolphins,2021
+120,Team 3,WR,William Fuller V,Miami Dolphins,2021
+128,Team 5,WR,Jaylen Waddle,Miami Dolphins,2021
+151,Team 8,TE,Mike Gesicki,Miami Dolphins,2021
+163,Team 6,WR,DeVante Parker,Miami Dolphins,2021
+172,Team 7,RB,Phillip Lindsay,Miami Dolphins,2021
+192,Team 3,K,Jason Sanders,Miami Dolphins,2021
+203,Team 1,RB,Malcolm Brown,Miami Dolphins,2021
+55,Team 8,RB,Damien Harris,New England Patriots,2021
+85,Team 9,QB,Mac Jones,New England Patriots,2021
+89,Team 5,TE,Jonnu Smith,New England Patriots,2021
+142,Team 11,WR,Jakobi Meyers,New England Patriots,2021
+162,Team 8,D/ST,Patriots D/ST,New England Patriots,2021
+165,Team 7,RB,James White,New England Patriots,2021
+171,Team 11,TE,Hunter Henry,New England Patriots,2021
+175,Team 8,RB,Rhamondre Stevenson,New England Patriots,2021
+84,Team 9,QB,Zach Wilson,New York Jets,2021
+115,Team 6,WR,Corey Davis,New York Jets,2021
+135,Team 12,RB,Michael Carter,New York Jets,2021
+149,Team 4,RB,Tevin Coleman,New York Jets,2021
+157,Team 9,WR,Elijah Moore,New York Jets,2021
+86,Team 1,WR,Brandin Cooks,Houston Texans,2021
+137,Team 5,QB,Tyrod Taylor,Houston Texans,2021
+140,Team 4,RB,David Johnson,Houston Texans,2021
+179,Team 1,QB,Deshaun Watson,Houston Texans,2021
+186,Team 8,WR,Nico Collins,Houston Texans,2021
+90,Team 8,RB,Javonte Williams,Denver Broncos,2021
+94,Team 11,WR,Jerry Jeudy,Denver Broncos,2021
+98,Team 10,WR,Courtland Sutton,Denver Broncos,2021
+99,Team 11,QB,Teddy Bridgewater,Denver Broncos,2021
+102,Team 6,RB,Melvin Gordon III,Denver Broncos,2021
+118,Team 11,TE,Noah Fant,Denver Broncos,2021
+184,Team 2,D/ST,Broncos D/ST,Denver Broncos,2021
+189,Team 7,K,Brandon McManus,Denver Broncos,2021
+114,Team 8,WR,Antonio Brown, FA,2021
+126,Team 6,WR,Henry Ruggs III, FA,2021
+169,Team 3,WR,Tyrell Williams, FA,2021
+201,Team 2,K,Josh Lambo, FA,2021
+202,Team 12,RB,Le'Veon Bell, FA,2021
